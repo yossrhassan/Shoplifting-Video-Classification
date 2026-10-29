@@ -1,0 +1,10 @@
+{
+  "model": "Shoplifting3DCNN",
+  "trainable_parameters": 292578,
+  "best_epoch": 10,
+  "best_validation_f1": 0.865979381443299,
+  "epochs_completed": 14,
+  "training_split": "video_splits_clean.csv",
+  "best_checkpoint": "scratch_clean_best.pth",
+  "history_file": "scratch_clean_training_history.csv"
+}

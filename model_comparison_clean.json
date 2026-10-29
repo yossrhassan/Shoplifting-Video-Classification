@@ -1,0 +1,38 @@
+{
+  "evaluation_setup": {
+    "dataset": "Shoplifting video dataset",
+    "unique_videos": 637,
+    "train_videos": 445,
+    "validation_videos": 96,
+    "test_videos": 96,
+    "test_split": "video_splits_clean.csv",
+    "duplicate_handling": "Exact duplicate files were grouped by SHA-256 before the clean split was created."
+  },
+  "models": [
+    {
+      "model": "Scratch CNN",
+      "accuracy": 0.875,
+      "precision": 0.9512195121951219,
+      "recall": 0.7959183673469388,
+      "f1": 0.8666666666666667,
+      "parameters": 292578,
+      "checkpoint_mb": 1.1272783279418945,
+      "median_forward_ms": 6.92,
+      "throughput_videos_per_second": 144.52
+    },
+    {
+      "model": "VideoMAE",
+      "accuracy": 0.9167,
+      "precision": 1.0,
+      "recall": 0.8367,
+      "f1": 0.9111,
+      "parameters": 86228738,
+      "checkpoint_mb": 329.0127058029175,
+      "median_forward_ms": 108.33,
+      "throughput_videos_per_second": 9.23
+    }
+  ],
+  "f1_improvement_percentage_points": 4.44,
+  "benchmark_note": "Forward-pass benchmark uses FP32, batch size 1, a Tesla T4, 5 warm-up runs and 30 timed runs. Video decoding and preprocessing are excluded.",
+  "historical_result_note": "The earlier Week 5 test result used a split containing exact duplicate videos across splits, so it is not used as the valid comparison baseline."
+}

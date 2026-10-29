@@ -1,0 +1,638 @@
+filename,class_name,sha256,label,frame_count,fps,width,height,duration_sec,original_split,split
+videyyyyyynnnnnnzzzzzyyyss_6.mp4,shop lifters,332b8f18b68e26161e03f11b6f425c880020d9ad3adbb5a1c1f80cf282c5a6bc,1,300,25.0,704,576,12.0,validation,train
+shop_lifter_n_196.mp4,non shop lifters,efd5aaac1b88d5512f745d018063090992870877372fcb6c59474c32a4638e5b,0,250,25.0,704,576,10.0,train,train
+shop_lifter_n_90.mp4,non shop lifters,df1b424751e3d57881f5fd66309363dd92d370a1e9488e0988d908a97dc835c8,0,225,25.0,704,576,9.0,validation,train
+shop_lifter_n_114.mp4,non shop lifters,46d0bb2e6de9434375e007beec99a04c0b4874d5918506c39156698ebf240960,0,325,25.0,704,576,13.0,test,train
+videppppsss_26.mp4,non shop lifters,c2a111a1e35141b5f4d6701e155ed12b202ed2991f89d6ba3aff6b0b8c8d51c5,0,373,24.83,704,576,15.022150624244864,test,train
+shop_lifter_n_166.mp4,non shop lifters,2f5ae23d607a61616c22b886d5fb2f1290c6aa3676652978b3376f9462156b55,0,375,25.0,704,576,15.0,train,train
+shop_lifter_n_5.mp4,non shop lifters,5511d47132fa84f4abc9945a1a12487fe0d86d4380ae36cfca3b1a88a69c4aba,0,475,25.0,704,576,19.0,train,train
+videppppsss_1.mp4,non shop lifters,981cffe49925f38db6560a51906cd30e14795e5ddccc7a4de68261822282db06,0,274,24.83,704,576,11.03503826016915,validation,train
+videyyyyyynnnnnnzzzzzyyyss_17.mp4,shop lifters,04b66179ccbb0a14ccf58af096723ca9adef437a37f434642aea6a850401b6bc,1,225,25.0,704,576,9.0,train,train
+videyyyyyynnnnnnzzzzzyyyss_13.mp4,shop lifters,9f6fca0d6457055e218bf3183276df3d3ddcb0bdd5cb336e0f8dfef48670d5f8,1,250,25.0,704,576,10.0,train,train
+shop_lifter_n_206.mp4,non shop lifters,8961584e38846aee3371aca9233629e9a5b39e8f7bcf8ab36bd23328542d6dc5,0,650,25.0,704,576,26.0,train,train
+shop_lifter_89.mp4,shop lifters,c8be7ccf9c472face37de396846062e669bd034839d830b9a893036deb22d443,1,500,25.0,704,576,20.0,train,train
+videyyyyyyyyyss_47.mp4,shop lifters,afef99f52d18f15a0d9b163ffa58bcc8f81738b21d25e95c6f0b956ed0c33a22,1,300,25.0,704,576,12.0,validation,train
+shop_lifter_106.mp4,shop lifters,5ca4ca3f1b189826ab518145de63d3d6d36a4701a568f688d45e2707845d335b,1,375,25.0,704,576,15.0,test,train
+videyyyyyynnnnnnzzzzzyyyss_4.mp4,shop lifters,c346b95eb1c35a3f0e5e1f88991ce5c03ee8a65a44a2dc27cd43cccc30d06ed7,1,350,25.0,704,576,14.0,train,train
+shop_lifter_n_65.mp4,non shop lifters,67988a81361374c549c29e7be519c2f1eb328a4ea9cf0454e564c92437cf1c2b,0,350,25.0,704,576,14.0,train,train
+shop_lifter_n_165.mp4,non shop lifters,f8c3f4fe78d0e92c7add9364f026cc22926095db83cf2c44f66c2445237e64da,0,400,25.0,704,576,16.0,train,train
+shop_lifter_93.mp4,shop lifters,a118e4f410101c5921188bd3b54fd77f62ab2bec2ae91757aa64ce954991fbb5,1,375,25.0,704,576,15.0,train,train
+videmmmmmmsss_90.mp4,shop lifters,1693e2119cbb22cf7c4367f7e0c5a2dfb02416105f3000381964dd3d7dce270e,1,297,24.75,704,576,12.0,test,train
+shop_lifter_88.mp4,shop lifters,d97f1c0b10f5aa90c23d8f77970f5ee5d3e3cde3f860984561bdc4826cf6aa59,1,350,25.0,704,576,14.0,train,train
+shop_lifter_62.mp4,shop lifters,955fe818f41da2d8f8d9d40f4433b9b5daeca74e3600734ae8828c1cd5e1fd68,1,174,24.75,704,576,7.03030303030303,train,train
+videyyyyyyzzzzzyyyss_19.mp4,shop lifters,38f8612d2cf05511f9f0c43aaeeec217c2284ff92989c74f7260f962149093ab,1,250,25.0,704,576,10.0,train,train
+videppppsss_83.mp4,non shop lifters,84d753f6167b4fa29f2741265970169ad5e6f2cc9d0298e746062d72115e71d8,0,348,24.83,704,576,14.01530406766009,train,train
+shop_lifter_n_218.mp4,non shop lifters,db14ee0a9df9d637485c4ca6a705d07feb97c902f1767ccde6d5b640c0df6b3e,0,275,25.0,704,576,11.0,train,train
+shop_lifter_n_211.mp4,non shop lifters,d0d1013bea0325e5938bff4dc84c78e4d62d0670a86e998e95cd2ecce24a2daf,0,400,25.0,704,576,16.0,validation,train
+videyyyyyynnnnnnzzzzzyyyss_20.mp4,shop lifters,0364f8c34bfbb244826b499dd60e955f4adcd5d16324279745c748f40b4bc996,1,250,25.0,704,576,10.0,train,train
+shop_lifter_n_35.mp4,non shop lifters,cc6b9d31dfdb5333adb61a7a5752b3d4dc0a98be789faa42e7fa4bc6755a8db5,0,450,25.0,704,576,18.0,train,train
+shop_lifter_40.mp4,shop lifters,401ad5e909b726df6a59a11c0fec156ddc0b423128a7c861d77ab9fcb8a2c57c,1,396,24.75,704,576,16.0,train,train
+shop_lifter_38.mp4,shop lifters,b0d990b4fd2a00618aa221584880576310635f573744d28355610a9f4c007d5c,1,495,24.75,704,576,20.0,train,train
+videppppsss_57.mp4,non shop lifters,faefce2ae1011e9e5169d0a874af0c328e0e97595f7594d86c2bd487eee217e0,0,373,24.83,704,576,15.022150624244864,train,train
+shop_lifter_61.mp4,shop lifters,28e4c18294470a0682163efe179af560834a6e3daa993cb192c1da1799b262c7,1,198,24.75,704,576,8.0,train,train
+videyyyyyyyyyss_5.mp4,shop lifters,1368f761104c24fa339975fce7dfaa532289ec63e0f18d6f011bfb82ba9352bd,1,250,25.0,704,576,10.0,train,train
+shop_lifter_48.mp4,shop lifters,55e2c7440becce42ae5ed5c52ae64527bc1d5eff9a48fa874c57e9314221a9e2,1,322,24.75,704,576,13.01010101010101,train,train
+shop_lifter_n_53.mp4,non shop lifters,a2527ba5353d936a8e02699e11856df014a89c52d389c437971efa6091897982,0,375,25.0,704,576,15.0,validation,train
+shop_lifter_56.mp4,shop lifters,7707a9e5606932cfb352f0af97ce381c224b0060e10d671de61e07c21e03e80c,1,223,24.75,704,576,9.01010101010101,train,train
+videyyyyyyyyyss_33.mp4,shop lifters,1949320f705823b9d534ae91996b97a39b57be182ea93e243eb56d0a04a91539,1,175,25.0,704,576,7.0,validation,train
+videyyyyyynnnnnnzzzzzyyyss_12.mp4,shop lifters,dab05108aba6fda0328d7a23668404b5957822ffeb72d418841fa1a369196b1a,1,275,25.0,704,576,11.0,train,train
+shop_lifter_n_66.mp4,non shop lifters,6f6ff6385025d57c6fd46283c21699ddc034139a61db5dcba62d5117d8af556b,0,625,25.0,704,576,25.0,test,train
+videppppsss_67.mp4,non shop lifters,85a0e60f73f2f594e46e17100433bea3b60cc677db0f02017e8108a1f5d07e77,0,249,24.83,704,576,10.028191703584374,train,train
+videppppsss_7.mp4,shop lifters,00237aa4c377e554f7dda67acaa6fed3e9b80cf8477776acd496a0b5b5b441ef,1,275,25.0,704,576,11.0,train,train
+videppppsss_46.mp4,shop lifters,e528a7d4787d7fecbecd788bde6ed43f06c199b79e33727482fcaf79050ec6a8,1,300,25.0,704,576,12.0,validation,train
+shop_lifter_n_45.mp4,non shop lifters,d737e22176b2ac13b4489ede4c7280e51bc3005e8077e3c539fa85eb965f65d5,0,500,25.0,704,576,20.0,train,train
+shop_lifter_n_61.mp4,non shop lifters,beb3d62937ea088c7a8fba83ad50bc4bc61dc0396146c2464fc569999377b86b,0,275,25.0,704,576,11.0,train,train
+videppppsss_14.mp4,non shop lifters,ab81bdf8757c010fc1a5e3598866c6b0eae575032732116f7a3c4b72d0f84343,0,249,24.83,704,576,10.028191703584374,train,train
+shop_lifter_n_91.mp4,non shop lifters,d425630547dcf60d9d0c0f6eef862a6d183429e2ee709cb80aead4ccc302f1ea,0,275,25.0,704,576,11.0,test,train
+shop_lifter_n_15.mp4,non shop lifters,ae51f55d9bccdba284abd747b4cd33a2fd2db42e1d5830df3376aa3ea9e460c1,0,550,25.0,704,576,22.0,train,train
+shop_lifter_n_38.mp4,non shop lifters,a45afabbaf6ed8df4f3fe3136863b8e527dfdd198bd80b58a195d82d8a77257a,0,275,25.0,704,576,11.0,train,train
+videyyyyyyyyyss_30.mp4,shop lifters,e36fb8be407150083d2db173b9350347a9cf649dae8e40f5e75067bffc381940,1,175,25.0,704,576,7.0,train,train
+videyyyyyyzzzzzyyyss_22.mp4,shop lifters,411981c27533c80758023e20023eac0e88f869f02e5274fd45e27f473923e38e,1,250,25.0,704,576,10.0,validation,train
+shop_lifter_107.mp4,shop lifters,f9dc3c98e4e0b0dc5662bdb9789771fd6ef39d06fcc1ac8f57740a62a9234563,1,400,25.0,704,576,16.0,train,train
+shop_lifter_n_157.mp4,non shop lifters,64efc354d62040fe8eba55bb39b7354e28a8c06e948c6776fb44610044b7da1b,0,300,25.0,704,576,12.0,train,train
+shop_lifter_11.mp4,shop lifters,00a2d8946d13f00461354885f4ac58dc9c47b7bee63f715ddecee382ead044fe,1,372,24.75,704,576,15.030303030303031,train,train
+shop_lifter_42.mp4,shop lifters,ddb428a5740c0236dc8d8f43b98dc285c75f076b75513345b7f9d58f493b925b,1,421,24.75,704,576,17.01010101010101,train,train
+videppppsss_24.mp4,shop lifters,85f1eb81e1caf4686e043721eb5d30e823a3b91a4878bb9a407f2a94cd5946dc,1,425,25.0,704,576,17.0,train,train
+shop_lifter_n_69.mp4,non shop lifters,f4dcd4b74fcdee2de50f8de82b54ca2b7a001f11dc939b76453fadb60bbb4410,0,350,25.0,704,576,14.0,test,train
+shop_lifter_n_151.mp4,non shop lifters,4c881790f3fe2903f4639a6b796bb4668b97aa24aa250acfcf6f00255629daa0,0,275,25.0,704,576,11.0,train,train
+shop_lifter_n_2.mp4,non shop lifters,ae4ba9edb67712fe0d23ef81436cf1e3928615b4eb07f04a537c8e484339ee22,0,325,25.0,704,576,13.0,train,train
+videppppsss_54.mp4,shop lifters,351a66b40c1658458496cf900fa60be8259d31c1ed0ac36d93cf4d6b07a93052,1,175,25.0,704,576,7.0,train,train
+videppppsss_5.mp4,shop lifters,704ec7bdea4050785e502eb51500c27e0846eb0cfa69af4af4cb92c6c69f386c,1,250,25.0,704,576,10.0,test,train
+shop_lifter_n_78.mp4,non shop lifters,8d98caf3dd3b46eb39a9c7a21a802e435926316e63b08605cc82ece78a13839d,0,450,25.0,704,576,18.0,validation,train
+videyyyyyyyyyss_48.mp4,shop lifters,3c5e22b5ab55196a98237cdba097c5aef3da9484e879619b7034f2cfaa3b0c40,1,250,25.0,704,576,10.0,test,train
+shop_lifter_19.mp4,shop lifters,8a87c57feba18b9329b49829864047d62948f9cec69f5b9e1393e6ce4d0c119e,1,372,24.75,704,576,15.030303030303031,train,train
+shop_lifter_n_20.mp4,non shop lifters,5e7f1cded81cc373b4b4a9cb7b28447a3dde81fd7d02f3e4132e2aff8f2619aa,0,475,25.0,704,576,19.0,train,train
+videossssstttsss_51.mp4,non shop lifters,b2058a6f4f85815d2b162ce6b483e705a42c12b4f57d0cf3503b97f5f25e8279,0,350,25.0,704,576,14.0,test,train
+shop_lifter_n_7.mp4,non shop lifters,ea17cb503726cd87f1a988e145004ae2032a98af153620eaa99a63452ea6c432,0,450,25.0,704,576,18.0,validation,train
+videppppsss_16.mp4,shop lifters,82e08e455536b1fe88ca543fe5c3d870487f4dfeb0da00122bb7b19995ba22de,1,375,25.0,704,576,15.0,test,train
+shop_lifter_n_67.mp4,non shop lifters,fd5f2ea9c0d079dc0eb3a4172065fd1e18b9f2127d8e7ec9f26f3f4cb48804b8,0,425,25.0,704,576,17.0,validation,train
+videossssstttsss_53.mp4,non shop lifters,de32caf4421407e22d431e12eb5ff7b854a1df12dc316146775676d59fe3bc4a,0,250,25.0,704,576,10.0,test,train
+videppppsss_18.mp4,non shop lifters,aec9a3dc5f7d1fa9093dc032eefb9c1abde28af9da13b62379fbeec1872b3feb,0,274,24.83,704,576,11.03503826016915,train,train
+videppppsss_46.mp4,non shop lifters,48ad5aa4bf0e5082812fb8d900caf2ad64c8ef76fd5715aa57cd27ae1f4b4464,0,398,24.83,704,576,16.02899718082964,train,train
+videppppsss_26.mp4,shop lifters,58504aea9d4ef5f92cf4b5f52f264e80d88309fa0fa0388dfd41f8a6582470b3,1,400,25.0,704,576,16.0,train,train
+shop_lifter_n_193.mp4,non shop lifters,f50fa8f640eeeb19abe83fec8900aa3b83f2d0cb07b920b78115ab0f1eb7f5c2,0,325,25.0,704,576,13.0,train,train
+shop_lifter_n_158.mp4,non shop lifters,59b4ab9c1813b66d1c110c8f1d372703d329b3a4b3db0648b704e9f9d71074bf,0,300,25.0,704,576,12.0,train,train
+videyyyyyyyyyss_59.mp4,shop lifters,9bb688e4722ed8163a6e7e59a25ae6f3184cb147c854e39f59642f9b1e325e89,1,300,25.0,704,576,12.0,train,train
+videyyyyyyyyyss_22.mp4,shop lifters,aabeff29e6ba6e44d13026938c229bef5998c037570e115c59b124b2d97036b9,1,325,25.0,704,576,13.0,train,train
+shop_lifter_n_112.mp4,non shop lifters,396597e797ffb9f99695a1187124675937afc5e1aa9a1348b51f49af89b9d6f6,0,250,25.0,704,576,10.0,train,train
+videppppsss_21.mp4,shop lifters,9c3c3a941a46d8ee1888966ba3113904613bafb6ddc0071db177dbc2b2bc784d,1,350,25.0,704,576,14.0,validation,train
+shop_lifter_n_0.mp4,non shop lifters,bb0c980ef317e0f82a9a468a206c478949d64b09ae90ce45fa502ccdf5d2504e,0,450,25.0,704,576,18.0,train,train
+shop_lifter_n_174.mp4,non shop lifters,eb4eed80d9e5998b66e80f020ece03d5cb414e14a9e322bf92ad7f2fa5aafd7d,0,375,25.0,704,576,15.0,train,train
+videyyyyyynnnnnnzzzzzyyyss_25.mp4,shop lifters,51f243b8a58f24b71a15f69d3b867399ca2e58ccfa3294867b89044a70805a59,1,200,25.0,704,576,8.0,validation,train
+shop_lifter_n_121.mp4,non shop lifters,dac6243e7a6967012aac813ec7fa5d199843f5a815026ec5508f0a477c0a2ec3,0,225,25.0,704,576,9.0,train,train
+shop_lifter_n_54.mp4,non shop lifters,f464103936502547724bee9ce3c92151a86a72a21aaaf15f1264d5e2d715fea1,0,350,25.0,704,576,14.0,train,train
+videppppsss_5.mp4,non shop lifters,6bdb79b98cc8675ba8d46e0e26b161d1b93bd188940c6dd6645e67906d1b892f,0,398,24.83,704,576,16.02899718082964,train,train
+shop_lifter_n_77.mp4,non shop lifters,09d9a0581ae7f6ee74f90552ee7b8a0b35588caf9573e12dc0cf1b079d4840ec,0,500,25.0,704,576,20.0,validation,train
+shop_lifter_n_31.mp4,non shop lifters,aed46e554665bd88568f87d0316a9836396480d0e9c60ca893aa539dcbd92e89,0,325,25.0,704,576,13.0,train,train
+videppppsss_1.mp4,shop lifters,bc35a7565451ac445d9844292eed1e8e1d5434fb5e60680d9adfc593e71eaa68,1,350,25.0,704,576,14.0,test,train
+videyyyyyyyyyss_55.mp4,shop lifters,fed1478d95234e722ae9c47de6dbd05590e19402358162d5225b9dfd658cadb4,1,200,25.0,704,576,8.0,validation,train
+shop_lifter_110.mp4,shop lifters,7e783d2da2b44a5628c9d0e09f796ad5d4910ae6d0e55f04f7ce55ac9c696ed2,1,525,25.0,704,576,21.0,train,train
+shop_lifter_n_32.mp4,non shop lifters,aaa969aa97a3fb5fa42cdc69616f540ecaa3f488c89df5b30ce8a1d8fd2d3208,0,375,25.0,704,576,15.0,train,train
+videyyyyyyzzzzzyyyss_16.mp4,shop lifters,91ac97ec18220fd09a88812abf2a9f80c216a27d1327086dafd994125a0b55c7,1,250,25.0,704,576,10.0,train,train
+shop_lifter_44.mp4,shop lifters,895f49934762e40e0329e22b485e3554eda444c3f1a92a4eb12679b3293eb352,1,396,24.75,704,576,16.0,train,train
+shop_lifter_n_187.mp4,non shop lifters,ae2210fca777ae325531f344f13e3f72826f82faa888290de6838cca1aa0074f,0,225,25.0,704,576,9.0,train,train
+videmmmmmmsss_102.mp4,shop lifters,715a6f2f6fb2c50ef78e3e118687bede5050ac645ad555ab79c577a75291f367,1,248,24.75,704,576,10.02020202020202,train,train
+shop_lifter_n_19.mp4,non shop lifters,fa284727524f02900df7e8e45d67a34e549da2ec99867e663212ca4f9790f40c,0,325,25.0,704,576,13.0,train,train
+videppppsss_39.mp4,non shop lifters,19a698a067b6a3a7981f321ed615087b93b243a33003942dfa664d9c264d4aa2,0,274,24.83,704,576,11.03503826016915,test,train
+shop_lifter_n_64.mp4,non shop lifters,1915d25881df41ee0955ab3eacea3eac4b36d720c69e5820201a57a905894e33,0,300,25.0,704,576,12.0,train,train
+videppppsss_13.mp4,non shop lifters,c430a685de3a946f94eec8c2101d3aba725aaf72fe37d45cd6d49363c4492c5a,0,298,24.83,704,576,12.001610954490536,test,train
+shop_lifter_n_118.mp4,non shop lifters,0d00e36fdfa8b90809139fe7ba2b366da3fdd12a1d7a86e4b2da70550a5f998e,0,250,25.0,704,576,10.0,test,train
+shop_lifter_n_192.mp4,non shop lifters,d8c2d0c7bf9a8d68383fa84562b54f12c98f9babec244e3f1ea017acb83cccc9,0,275,25.0,704,576,11.0,train,train
+shop_lifter_74.mp4,shop lifters,3537fad3aa7788a9ced59f8a016db354df41fdb388b87a4e7a1626061614055a,1,174,24.75,704,576,7.03030303030303,train,train
+shop_lifter_n_160.mp4,non shop lifters,db7853ac355d9d4f7bdfa163342152f5282e48d11255b73391d2db9487354143,0,400,25.0,704,576,16.0,test,train
+shop_lifter_32.mp4,shop lifters,e88a9be13780930fa02864d94671046b8643e078c536ec7a2176ff153fc4f39b,1,495,24.75,704,576,20.0,train,train
+videppppsss_66.mp4,non shop lifters,513bbc51e2323e82d47a0d56fe87fe523368788cd847727c333a47e5c90707c0,0,323,24.83,704,576,13.008457511075314,validation,train
+shop_lifter_n_80.mp4,non shop lifters,9d34a53e5431a969b021129e308cc4350092a86a985c91143ddd9a924fb30d86,0,475,25.0,704,576,19.0,train,train
+shop_lifter_n_207.mp4,non shop lifters,ba9ef2ca2e7548bbbc00025ecd8abe46fb010cbcd60828287fac4422418cfae7,0,475,25.0,704,576,19.0,train,train
+shop_lifter_9.mp4,shop lifters,8cd6ba8462f32726b836f011e365e87a567802abf3c1fcb5b61fb7fff42c9dff,1,297,24.75,704,576,12.0,train,train
+shop_lifter_n_104.mp4,non shop lifters,7f6083749cb9dffdd8778bc764aa542169b48be83f2c49d41871fad1709d39e3,0,350,25.0,704,576,14.0,train,train
+shop_lifter_n_46.mp4,non shop lifters,81bfcd1605c30d19593e0da26fe005febd354d15bc9ac8f21911ec31746c1589,0,375,25.0,704,576,15.0,test,train
+videyyyyyyzzzzzyyyss_24.mp4,shop lifters,d51f4c9af636d3ae7c5776d3ad5e6ac91cdd3cfb46f9586f80a27f82a9e7471e,1,275,25.0,704,576,11.0,validation,train
+videyyyyyyyyyss_52.mp4,shop lifters,13c862758ba09983f45e48ef426dd1d01120e2f292692c680e0f38d974a8d733,1,250,25.0,704,576,10.0,test,train
+videyyyyyyyyyss_56.mp4,shop lifters,67dd6571c36e6b49f5aa6fe0c526bf1f2191079a378c914a7eaed2421ddb3fec,1,300,25.0,704,576,12.0,train,train
+shop_lifter_n_197.mp4,non shop lifters,e35d0fc9ccbdf9e1242ebc5f523d0aebf9cce7cf92bab428183e596a2f7dd929,0,425,25.0,704,576,17.0,validation,train
+videmmmmmmsss_91.mp4,shop lifters,88a8860622ef5ac985438eb9176b2e4608c6aa4603c98d4ee4295118e31379ae,1,248,24.75,704,576,10.02020202020202,train,train
+shop_lifter_54.mp4,shop lifters,cdad10b76a31a4c6635191fd2b3075c26d1e56e771591e2fb4334221b0af0674,1,297,24.75,704,576,12.0,train,train
+videppppsss_71.mp4,non shop lifters,3f27fd1afe78e8ef876913fc0ecc78528bb931ac88d06c32b12ebb778c9934cd,0,249,24.83,704,576,10.028191703584374,train,train
+videppppsss_44.mp4,shop lifters,c3ba0152c2cf618fc7b5d49f40d56c755ae23b95ea21a0ce95bde3ff2eec86d1,1,300,25.0,704,576,12.0,validation,train
+videyyyyyyzzzzzyyyss_2.mp4,shop lifters,b493aef128058c16b02320a557ee13dc1d6ce6e7a459f08e85150ac308804e66,1,250,25.0,704,576,10.0,train,train
+shop_lifter_n_3.mp4,non shop lifters,3d45664508ba0a6caee6a05d977072ef86b57764488889c6703231a1fa4a40c4,0,350,25.0,704,576,14.0,train,train
+videppppsss_4.mp4,shop lifters,49ea2d62a3108996d27fa87126296eb016debb4baefbdd426396b67db07f1d1d,1,275,25.0,704,576,11.0,train,train
+shop_lifter_1.mp4,shop lifters,1c0baed1161a3f5cf19db4ed97f82b229137741175dc7101d743c7583e7a2378,1,223,24.75,704,576,9.01010101010101,train,train
+videossssstttsss_50.mp4,non shop lifters,6a9f9dd5647dbac94131f0fe2d759288b73950a4d575c218d91f29bc8272f7d6,0,325,25.0,704,576,13.0,train,train
+shop_lifter_n_177.mp4,non shop lifters,1ae32d4fdefd767e8a8d1c2542ab8d18cd46accdeeec593786c7b58672e8bf21,0,425,25.0,704,576,17.0,test,train
+videyyyyyyzzzzzyyyss_13.mp4,shop lifters,a1b56529acbab72147a6b95079ffc8290be94ec23638a086dff3d0a2abe6f358,1,300,25.0,704,576,12.0,train,train
+shop_lifter_n_108.mp4,non shop lifters,086937f0c7e844470df528173641107af2b9d540d639e23b404ecc2e19d82cdb,0,150,25.0,704,576,6.0,train,train
+shop_lifter_n_106.mp4,non shop lifters,b55eba5ca5e0c669a64aba20adbd595a0974d020203c3a0af7f62e7c9ed2d965,0,275,25.0,704,576,11.0,train,train
+shop_lifter_n_10.mp4,non shop lifters,fdb6eaa01819203f1548a75e161d9e2aca57b912ce464c99a4e17173aea36f80,0,475,25.0,704,576,19.0,test,train
+videyyyyyyyyyss_31.mp4,shop lifters,6d5de6b7d5878e40266d4f3c1611fa8f9ae69d340db5dced472fcef4708d24d6,1,225,25.0,704,576,9.0,train,train
+shop_lifter_104.mp4,shop lifters,2ca0d2622ea0b05171d8f538d1fd1aa84be3632bdd535c49da5c81584e50f898,1,350,25.0,704,576,14.0,train,train
+videppppsss_22.mp4,shop lifters,51516ccae2c6111ef81bdd49c12a49e45a5f1b04edf745a7ebbc5f78867ad5e0,1,350,25.0,704,576,14.0,train,train
+videyyyyyynnnnnnzzzzzyyyss_18.mp4,shop lifters,1cb565aaf96636b31758a9b881e3a4d9ba4861cdf1618ad1d47ef03a78cedca6,1,225,25.0,704,576,9.0,test,train
+videppppsss_50.mp4,shop lifters,f2f6c93fe24b99493c10580213c1f855499ba2a54c51eebfe54500786efb2783,1,200,25.0,704,576,8.0,validation,train
+videppppsss_43.mp4,non shop lifters,0d7741e084b3e26f7ddf90e4fbd8710d5c0d4338ffa7ae7321dcf5332448eece,0,274,24.83,704,576,11.03503826016915,train,train
+shop_lifter_n_111.mp4,non shop lifters,2d158af5837393543642eb1022a74ac3c23a004e404874b9835c45eb3160358b,0,150,25.0,704,576,6.0,train,train
+videyyyyyyyyyss_19.mp4,shop lifters,4afb3d7e58344305c29b109295973905347f00ef88414d3b4aba8dead1375cca,1,225,25.0,704,576,9.0,train,train
+videppppsss_27.mp4,non shop lifters,7a32663faba7500da23d3f107e53e2d6332c0fa6e7e1d26a5d79bc12b7f9ff36,0,373,24.83,704,576,15.022150624244864,train,train
+videppppsss_2.mp4,shop lifters,794772a5d59a29b26d7c2ba97d6c15fe3919cfc3282f788b105cae85908bde9c,1,275,25.0,704,576,11.0,train,train
+shop_lifter_69.mp4,shop lifters,d9b2a40736a33c2b67ab6014cfb271948eefab48aec3b3a0c00dc1864bec3d0a,1,198,24.75,704,576,8.0,test,train
+videyyyyyyzzzzzyyyss_6.mp4,shop lifters,187b1a078f649b601dafe54cf0f4654ac6182ae6055cbde4ac6329f9d397e340,1,325,25.0,704,576,13.0,train,train
+shop_lifter_72.mp4,shop lifters,9b1bf50b315ee936dc26deb76571aaddb77819d02c30f9c7f13b0a26d4734ccf,1,248,24.75,704,576,10.02020202020202,train,train
+videyyyyyyzzzzzyyyss_4.mp4,shop lifters,6a45598e31f445434bfa675417515a2cd910d4635f822288614f0d4b3146844d,1,275,25.0,704,576,11.0,train,train
+shop_lifter_n_33.mp4,non shop lifters,a7ee054b96ebd597105d2bec57cdf20c6c27f7115923e8380ef63354f8241af0,0,200,25.0,704,576,8.0,train,train
+shop_lifter_46.mp4,shop lifters,88de681616e110bad3d9da485e736ef44f8636e58856468f701f34a192a14db9,1,322,24.75,704,576,13.01010101010101,train,train
+videossssstttsss_55.mp4,non shop lifters,529206e5c7af406eaa49c7bd885b6bf6600e8802a1350fd265aaebc651d7baea,0,425,25.0,704,576,17.0,train,train
+shop_lifter_n_155.mp4,non shop lifters,50543d34a78030d7784bfb9cf89a06e5e70d2eacd2335cb4b1ef6b5081e16cef,0,125,25.0,704,576,5.0,train,train
+videossssstttsss_52.mp4,non shop lifters,8e46c37f54a3c327e811e404a6f49b20107b2de3dd1f075b5a2aebd6cd83eae7,0,350,25.0,704,576,14.0,validation,train
+shop_lifter_25.mp4,shop lifters,e630e991763f1fc4ac9d0a20130f83f33bbfe0cd8143524ad099000e622eae53,1,372,24.75,704,576,15.030303030303031,validation,train
+shop_lifter_66.mp4,shop lifters,f62b2b83be970e61e7c06c7b0f75758485d74e857424636b9f4f9764db2b1c2a,1,273,24.75,704,576,11.030303030303031,test,train
+shop_lifter_63.mp4,shop lifters,bb3b7bcba64cb15b4d12b891668d94bcf00f38c07f55151f4ceedfbd7da210ab,1,223,24.75,704,576,9.01010101010101,train,train
+videppppsss_56.mp4,non shop lifters,ad873d236f06aeb5665fd42b7c81c04c94a4882ccd6cf0a621860ce98a93fec3,0,348,24.83,704,576,14.01530406766009,validation,train
+shop_lifter_n_25.mp4,non shop lifters,4f3b431ff866194e29fb5a44e2560a46d398c9ec72c884e18131e2bafc21ea62,0,400,25.0,704,576,16.0,train,train
+videyyyyyyzzzzzyyyss_11.mp4,shop lifters,11e84d98326dcdd1f21d84e76bcefacc4b8fd54b289db1e515d5b6cf9797e9cc,1,325,25.0,704,576,13.0,train,train
+shop_lifter_n_124.mp4,non shop lifters,0bca1701d163e19f320a9d377665eeef0ba33b686f0b3c4312f2873daf03b825,0,200,25.0,704,576,8.0,validation,train
+shop_lifter_116.mp4,shop lifters,e498dd2eadae9c746b37c018ec1e83ccadc19fbc257577cbb2265baecde09375,1,375,25.0,704,576,15.0,validation,train
+shop_lifter_n_109.mp4,non shop lifters,fdc12feb45f6ac78b2651a645501c12d7b412a136944671311ea092f798e7629,0,250,25.0,704,576,10.0,test,train
+shop_lifter_105.mp4,shop lifters,fbe4c6dd62341c6ae0f2614a38c1afd45179b32a8a0f5281fb2ab1721e728ba9,1,450,25.0,704,576,18.0,train,train
+videyyyyyyyyyss_11.mp4,shop lifters,30dfe8ac48a84379701c164c839d523c389c5007d8375aa478eb30956f0f713c,1,275,25.0,704,576,11.0,train,train
+shop_lifter_n_29.mp4,non shop lifters,f2fe3fb6f6be8e20cd1ddb8d919974930fbf6319b08e58841577087a40c1e0f0,0,275,25.0,704,576,11.0,train,train
+shop_lifter_n_68.mp4,non shop lifters,b0220b91c154e42413f079b2f5309bf78a1ba30e2cc6bd1e9524a0c4423ae77a,0,450,25.0,704,576,18.0,train,train
+shop_lifter_n_30.mp4,non shop lifters,32fcd2c0f2d306cf3082f59c251a2d9585436d65fc14a965b9655cf08955691e,0,275,25.0,704,576,11.0,validation,train
+shop_lifter_n_123.mp4,non shop lifters,f7dd3de41922b39910bfe1b3b64b4bdaefe2923fbb835ffdc660abdecc913832,0,200,25.0,704,576,8.0,train,train
+videmmmmmmsss_86.mp4,shop lifters,49d868bdcaa6ced55ba38e815f0e8c5e2ef39496a92749a16e9ba51d45dc3683,1,198,24.75,704,576,8.0,test,train
+videppppsss_80.mp4,non shop lifters,f91f14f96d58f46dd60e8b0cc030186b3561d62e91561607380f2d7c333282d0,0,323,24.83,704,576,13.008457511075314,train,train
+shop_lifter_16.mp4,shop lifters,49630fa8c9176bc31227874c7dfa900cd5ff46b672e0b89e43ba75bd833d772d,1,495,24.75,704,576,20.0,validation,train
+shop_lifter_43.mp4,shop lifters,93889d4f811ecba55897889a46acb9e5dc3146c255e7f13f673c3c70663e2fba,1,421,24.75,704,576,17.01010101010101,train,train
+shop_lifter_n_59.mp4,non shop lifters,458a06f35996261b39b3e1b0d7866845da47a0b631ca8f3f1f268016d33ead14,0,200,25.0,704,576,8.0,train,train
+videppppsss_32.mp4,non shop lifters,bf07b4d8cc74fcf76454126ea73ae66e0943b6592427348a368aee57e0dfff2f,0,274,24.83,704,576,11.03503826016915,train,train
+videossssstttsss_49.mp4,non shop lifters,e5a9d9f0663fee361f370600935bb3844c17800189bb29cb84c08dbcdb9197e0,0,225,25.0,704,576,9.0,train,train
+shop_lifter_n_132.mp4,non shop lifters,8fa9df07f8c5253e9df44947d8fd444e79626e2200d0c09d0e16a275360909f6,0,425,25.0,704,576,17.0,train,train
+shop_lifter_n_190.mp4,non shop lifters,2bc011183b694ce5d96841127777ed42a5761e0c450bea74c484d09326fd9daa,0,200,25.0,704,576,8.0,train,train
+videppppsss_82.mp4,non shop lifters,af5d093e5889f45b9a420bec0dbdb89212fe5f71123f536b6765c2786273e20a,0,398,24.83,704,576,16.02899718082964,validation,train
+shop_lifter_53.mp4,shop lifters,b5a803f075a2a96b405cea4e166b724deb1f8d51cec72f44d45f973de4c0e66b,1,372,24.75,704,576,15.030303030303031,test,train
+shop_lifter_n_56.mp4,non shop lifters,ac93b9494b25815502ade0c059e3f42119098291f1ab8341388dfccaf627ebe6,0,325,25.0,704,576,13.0,train,train
+videossssstttsss_56.mp4,non shop lifters,530474ccb9331d3603ab16730498125196772ec6b89fbc80163a49a0280d964e,0,375,25.0,704,576,15.0,train,train
+shop_lifter_35.mp4,shop lifters,dbac18b0ee0b83578502220ce1107be9fc783be71c8653652f3ca5653ecf102d,1,372,24.75,704,576,15.030303030303031,train,train
+shop_lifter_n_182.mp4,non shop lifters,15243d2fcaca33dd57fc8d677060f8b5e5d985fc5c6933e634e1d8cf59d75c4a,0,375,25.0,704,576,15.0,validation,train
+shop_lifter_n_28.mp4,non shop lifters,ebfc5989009762d571d00351f6bf2fc09c3abcf9904eaf5f65d666e966299e3d,0,250,25.0,704,576,10.0,train,train
+videyyyyyynnnnnnzzzzzyyyss_2.mp4,shop lifters,9bdded6ecebe8a748aba6c5b2f21e7c2769e320aadb74e29f6c7e7d030b5bbf7,1,325,25.0,704,576,13.0,train,train
+shop_lifter_n_205.mp4,non shop lifters,5a51b69ec761f5170fa5f1954931004020cc8f94339cd17279b43a596d083292,0,425,25.0,704,576,17.0,train,train
+shop_lifter_n_139.mp4,non shop lifters,44bf77c91f8fcaf8429e4cadf01d30ab13a542fa6bcd3be49de6664407f7dec5,0,375,25.0,704,576,15.0,train,train
+shop_lifter_n_202.mp4,non shop lifters,adbcefa19c7790bab21ca45c7b5000fee99b8d3048e5d505c4fe4211df2d1542,0,425,25.0,704,576,17.0,train,train
+shop_lifter_n_185.mp4,non shop lifters,811dafc030f2bba307f840fde5206d304a2913b93950e1e661389b8efbc19dfa,0,375,25.0,704,576,15.0,train,train
+shop_lifter_n_100.mp4,non shop lifters,8f38e376df2fbe6320d9bec7083a4d60c6c841a178bed85de858d03ee5bb5bd4,0,400,25.0,704,576,16.0,validation,train
+videyyyyyyyyyss_23.mp4,shop lifters,d3c022a8ebe844ad4638b237c9ce2b76162be2221c4fdcd711ade15bcf4a869d,1,275,25.0,704,576,11.0,train,train
+shop_lifter_n_153.mp4,non shop lifters,caf79fc33118670c23a48ec7b912c6f5cf023d2997220f3e4763c2229be7fa65,0,375,25.0,704,576,15.0,validation,train
+shop_lifter_n_210.mp4,non shop lifters,c500d0391e51ea25906f6fe52bf21005fc79ca0840a38a6c55087b6322198efe,0,500,25.0,704,576,20.0,train,train
+shop_lifter_119.mp4,shop lifters,f555807f236fdf7033c55a13fdaae02e3894507340b5dc89b8e9e18bdacc1252,1,325,25.0,704,576,13.0,train,train
+shop_lifter_n_180.mp4,non shop lifters,427314be795a6e8070942e6db18e98f67f1d28ea66d67dde537d58bafffa6892,0,375,25.0,704,576,15.0,train,train
+videyyyyyynnnnnnzzzzzyyyss_16.mp4,shop lifters,b7512b8ff369166698905a725c5db5fcbb82e4fe8083d70a1e41bbf05a62abf6,1,200,25.0,704,576,8.0,train,train
+videppppsss_3.mp4,shop lifters,5dba42ba7d7b99d1773c32ec6ad3dcad3d3aad92d9d933223100f598e06d5e2c,1,325,25.0,704,576,13.0,train,train
+videyyyyyyzzzzzyyyss_15.mp4,shop lifters,0d786e1232768f32664ab397537bb1bd2cd93c55a05c8fcfab33a5204d459e64,1,250,25.0,704,576,10.0,train,train
+shop_lifter_n_107.mp4,non shop lifters,86f8c4ac0be36cf9c1e5594545c47bd8c4a3a34c5c9e2a41b232a56b21ddb85d,0,175,25.0,704,576,7.0,test,train
+shop_lifter_n_176.mp4,non shop lifters,e84b47947a69404e8813871781b001e875dbc87d461067a3baa0a902924e1c56,0,375,25.0,704,576,15.0,test,train
+shop_lifter_n_203.mp4,non shop lifters,7f4c01f5bc6f9172af3ba4552229401b65efcfb4d81f6a727052a4d38dae45d3,0,500,25.0,704,576,20.0,train,train
+shop_lifter_55.mp4,shop lifters,1d0c81b527bc1310f5b95c986ebdc933e15d08d47439f3290f613b164e0fabf1,1,198,24.75,704,576,8.0,validation,train
+shop_lifter_124.mp4,shop lifters,ba2e065ce7fac8b3740087842c7a6baaa699bb81b73a19adfecc72ea97e8d43e,1,375,25.0,704,576,15.0,train,train
+shop_lifter_n_93.mp4,non shop lifters,9620a1acc980b7bf42acc782044586cd02ef6aeacd95ff002ca354434568a317,0,250,25.0,704,576,10.0,train,train
+videppppsss_36.mp4,shop lifters,d46aec1438679e2f3884946ca65a62d60abdaedbab6a2e8886372142ea1a9248,1,375,25.0,704,576,15.0,train,train
+shop_lifter_n_57.mp4,non shop lifters,974a5ae8839b941e83a2665d609e569f5eb97dbd45c678f366ddf97ca39af478,0,250,25.0,704,576,10.0,train,train
+shop_lifter_70.mp4,shop lifters,fa00f87f227bfe5186be6745f3d30babc5cb4c851f94a17f17f63a3241405332,1,223,24.75,704,576,9.01010101010101,train,train
+videppppsss_8.mp4,shop lifters,1de81cfe3ac0cedd9ae2afebb8122916095f4647d7b41a134099849d48f2e173,1,375,25.0,704,576,15.0,train,train
+videppppsss_37.mp4,shop lifters,b79bfbc4c80951a7797fac8577e9a614cc475d15e3b4bb72fa56281b955a143f,1,325,25.0,704,576,13.0,validation,train
+videyyyyyyyyyss_9.mp4,shop lifters,ac90bfbbef04b7975aeb510a7a2fd763292d14408aa553db646e1c8ac64aa676,1,300,25.0,704,576,12.0,train,train
+videmmmmmmsss_101.mp4,shop lifters,e33be6a31799fbfa16a2fdd90d1d0061ee92482ba2b003a3c7adfb7ef89328e5,1,248,24.75,704,576,10.02020202020202,validation,train
+shop_lifter_n_26.mp4,non shop lifters,9fe4917dfb8537bea9d0fce94b6da0e28ea016a61dff6192649bbfab62c2ed89,0,250,25.0,704,576,10.0,train,train
+videyyyyyynnnnnnzzzzzyyyss_1.mp4,shop lifters,42d871427abf294ad49e0f4fbbce4d179792b8ce54746e4ffc510a36afe29462,1,350,25.0,704,576,14.0,train,train
+shop_lifter_n_87.mp4,non shop lifters,395b8e90185f5bd3a8e1263e93c9c678fc2a396a09cd1beccf77acf25cfee3df,0,250,25.0,704,576,10.0,train,train
+shop_lifter_n_83.mp4,non shop lifters,7f17e8070c52c36516c38db76d3827397ba00ec5d2a64f4d77662a844c298350,0,350,25.0,704,576,14.0,validation,train
+shop_lifter_n_44.mp4,non shop lifters,72d3c171243537f569ac704f3bdea190377043389305130e126376bb258b3448,0,900,25.0,704,576,36.0,train,train
+videppppsss_14.mp4,shop lifters,3538eac6e2b252a056fe6a5a2e02952511bdd321711507c4de549eaef0072eb3,1,275,25.0,704,576,11.0,train,train
+shop_lifter_n_81.mp4,non shop lifters,57f006fcc2aed6075e5e4ffd4fbfe5052bb2a0018dfa747e06d3b0b424d041cc,0,450,25.0,704,576,18.0,train,train
+shop_lifter_n_175.mp4,non shop lifters,bdcd6b04e61c16c63ad99e6622a1287b869da8ba0dd91860aa9ee7ffbcc555bb,0,450,25.0,704,576,18.0,train,train
+shop_lifter_2.mp4,shop lifters,eea9e6682561d6d9724c18d09a536855947019e379c56ad2fda57e0771c40011,1,174,24.75,704,576,7.03030303030303,test,train
+shop_lifter_n_212.mp4,non shop lifters,3df8b97246183d5900122a2820b6ccdfe16132ae300ca61df610b0e9dfdade95,0,350,25.0,704,576,14.0,train,train
+shop_lifter_n_102.mp4,non shop lifters,363355d5b362a8f46a35e53d62065de6e8073898a8388cb0ae42b3189f4bee2a,0,275,25.0,704,576,11.0,test,train
+shop_lifter_n_135.mp4,non shop lifters,e183c9aa3dd8212ce61c92849b91efb188c39725196e469da2fc5bc53960b821,0,325,25.0,704,576,13.0,test,train
+videyyyyyyyyyss_65.mp4,shop lifters,ad4596d326ff61e1ac0c590549f3ac23daae447ff0fe19b3f8a36b139e94454c,1,325,25.0,704,576,13.0,train,train
+shop_lifter_86.mp4,shop lifters,83236d90e10567e304745e69480f956a610932ce5f94834c951cbf2d3671f26a,1,325,25.0,704,576,13.0,train,train
+videyyyyyyyyyss_4.mp4,shop lifters,45e544c110e35dd09c49db8508420f971594d9f48a900ac6fcb30cbec9389377,1,300,25.0,704,576,12.0,train,train
+videyyyyyynnnnnnzzzzzyyyss_10.mp4,shop lifters,034760a565b1fa4571c6731109f41ddd7db1432bfdcc4e3340f11db9c5ef6180,1,300,25.0,704,576,12.0,test,train
+shop_lifter_108.mp4,shop lifters,996b9feda56a9a8d7337546f0106eb23c7b14d4d7be57e133a2ad9f75df8c53e,1,375,25.0,704,576,15.0,test,train
+videyyyyyyzzzzzyyyss_5.mp4,shop lifters,999af504a771c180504cc685c2c6443015347893cb11e230e01c15621a94e12c,1,300,25.0,704,576,12.0,test,train
+videppppsss_29.mp4,non shop lifters,332fc059ccd147afd7d8b795a35db717eb748c1b749b57084561fb540381a845,0,323,24.83,704,576,13.008457511075314,train,train
+shop_lifter_51.mp4,shop lifters,bece06fd1eab42d61e7ed82d000d653e9cf90f3a72371baefe71013fc03c58d4,1,297,24.75,704,576,12.0,train,train
+shop_lifter_n_92.mp4,non shop lifters,728444d754cecd2e45d5ea4fe26a48dafe90676b7d2cd39ed1b574f334aa9745,0,425,25.0,704,576,17.0,train,train
+shop_lifter_n_198.mp4,non shop lifters,6cda486c68ca54c71821dae904178534c444e7fb753816e12669fe6ba0c5cbb4,0,425,25.0,704,576,17.0,train,train
+videyyyyyyyyyss_17.mp4,shop lifters,c4ca9786946508ce96e7ce4f47df79c0b0256a92c6ca954c034e098df3ca74ce,1,275,25.0,704,576,11.0,test,train
+videyyyyyyyyyss_8.mp4,shop lifters,19ae09906573f92fa4499c821f9a0ef6c98096daebfbc594e389f9a22462a2f2,1,225,25.0,704,576,9.0,train,train
+videyyyyyyzzzzzyyyss_17.mp4,shop lifters,1bd7fb1b0a1e9583f4a86c96d9cf628471258a1058db1c8a448fbae5d711f981,1,300,25.0,704,576,12.0,train,train
+shop_lifter_n_89.mp4,non shop lifters,08bb96731d697f67a5a0187c20c8af2396e66f41c15287864f987f447ce60a14,0,225,25.0,704,576,9.0,train,train
+videppppsss_72.mp4,non shop lifters,2a219595ffa6d9d5c89767e016bfd3e923bfb7cc46487b61aa455ea760b11486,0,348,24.83,704,576,14.01530406766009,train,train
+shop_lifter_n_126.mp4,non shop lifters,f25da80fce60a18bcfd0748d00449778be67e8e8ca80262b0acea22f57c4c919,0,200,25.0,704,576,8.0,train,train
+videyyyyyyyyyss_37.mp4,shop lifters,6d57388d6f9f56adca3ed38d8a1a778b674288c82a256bb9707fabfeb0952198,1,175,25.0,704,576,7.0,train,train
+videppppsss_12.mp4,non shop lifters,93eec9f0ca8c69527e2a5e5011a46216c712adc888e79570121d3c3be540f263,0,398,24.83,704,576,16.02899718082964,train,train
+shop_lifter_4.mp4,shop lifters,9fd3cccae2a7039bf25af049352a723bfc4073adb0506fd1f67b8602448e787d,1,174,24.75,704,576,7.03030303030303,validation,train
+videyyyyyynnnnnnzzzzzyyyss_11.mp4,shop lifters,d3e9f380f99b7c949ec0bc110e6788f0df8fc18e194b58accdab6e5528842f22,1,325,25.0,704,576,13.0,train,train
+shop_lifter_n_148.mp4,non shop lifters,ff36fdc2dd09f9470ccea514d01d86f873dc3d834a7285161aafb88b57d9a0ea,0,250,25.0,704,576,10.0,train,train
+shop_lifter_n_62.mp4,non shop lifters,7e44ff8ba65d43f7d4fa2dd5e8e286e28bc73fa20016ddaf52bd130dacb182e3,0,375,25.0,704,576,15.0,train,train
+shop_lifter_n_127.mp4,non shop lifters,14f108306096900f05103a2fae35aa9180ced1312c77cdc9921d2075c5d54765,0,400,25.0,704,576,16.0,train,train
+videyyyyyynnnnnnzzzzzyyyss_24.mp4,shop lifters,0bc3d0b18d11d90ff5af4bcc8406351e69e21ff2ed38c229d2bef3ebad3798ae,1,200,25.0,704,576,8.0,train,train
+shop_lifter_n_209.mp4,non shop lifters,30155ff0848674c7b4c8ccc32826d6fa4fd35032cab41a23dd7e811f7d999350,0,425,25.0,704,576,17.0,train,train
+videppppsss_51.mp4,shop lifters,d6c07fd1fed2335629c1aed2f8e81f29eb91d091a5ecc21411fbb48f3142a8ef,1,225,25.0,704,576,9.0,test,train
+videyyyyyynnnnnnzzzzzyyyss_22.mp4,shop lifters,1aea9d0b207f0eebb07011cc056bd37661e75e6bd3d3c486eec64fe223a9ea86,1,175,25.0,704,576,7.0,validation,train
+videyyyyyynnnnnnzzzzzyyyss_21.mp4,shop lifters,80a6d28bda75a274f791812bffef38815c97f005e55d773f1d021560ba55d5e0,1,250,25.0,704,576,10.0,test,train
+shop_lifter_33.mp4,shop lifters,0195a83f0537a131e247a9e9d6cb542ec52fce5695eff704a0bca35462ea75a7,1,372,24.75,704,576,15.030303030303031,train,train
+videyyyyyyyyyss_18.mp4,shop lifters,65120456db3ed6f39c0c6bcdcc6e0e2f01cf2f686b06a14e9ef36bb531149210,1,225,25.0,704,576,9.0,test,train
+shop_lifter_n_41.mp4,non shop lifters,75cdf731aeef4aa5530d99f5ab09ed181132cd18db30de1e848147e5de9140d1,0,400,25.0,704,576,16.0,train,train
+videppppsss_33.mp4,shop lifters,eeab0337d7cacbce9d94385e2afca66a22b6b9e55847c0f2b66685b93397b55e,1,375,25.0,704,576,15.0,train,train
+videyyyyyynnnnnnzzzzzyyyss_15.mp4,shop lifters,26521a19b6ad6683214b8996f4ad93141f4694a26472691d71388af0a0d6acfd,1,200,25.0,704,576,8.0,train,train
+shop_lifter_n_144.mp4,non shop lifters,cb0df5621fcd98de095952bbd997c2a494731f75ec77c54602c20547c2af02a6,0,450,25.0,704,576,18.0,train,train
+videmmmmmmsss_93.mp4,shop lifters,9642e64cb2c768676c7214b2d7c95f9cfd3dfe7e3ecbbf35259afe6003423d14,1,248,24.75,704,576,10.02020202020202,train,train
+shop_lifter_n_201.mp4,non shop lifters,f2ebe2f35a8b3adc3afc021538668d983cff64636e9918fe14ffe615787cfb95,0,350,25.0,704,576,14.0,validation,train
+videmmmmmmsss_88.mp4,shop lifters,783bb1aa781f50290e990e852091f9e1c438609c3714c4686d53513fc3805f31,1,248,24.75,704,576,10.02020202020202,train,train
+videyyyyyyyyyss_43.mp4,shop lifters,eca066513cc32e5ec877b8938311e5d13e4e50c69db14b10ee702cecf8a2ef9c,1,200,25.0,704,576,8.0,train,train
+shop_lifter_n_164.mp4,non shop lifters,5d0ab1ce3eada8ff460bdd51a36849a729d9a421da9f661f536ac4c69abb1b45,0,425,25.0,704,576,17.0,test,train
+shop_lifter_n_167.mp4,non shop lifters,4742dde0d11ab7f96d9058b43a7f3fdfb93e01c16030750080dfcd2c2ccf8669,0,375,25.0,704,576,15.0,validation,train
+videyyyyyyzzzzzyyyss_3.mp4,shop lifters,ffa5ef80e1afa496c072ebe19463be365c365fc735d39073ea1571b2da1f89ee,1,225,25.0,704,576,9.0,test,train
+videyyyyyynnnnnnzzzzzyyyss_3.mp4,shop lifters,1d87b0d323781bf9d8bfbe0a5f0df2a8bf3bb37561ca7cbdccf6e92f2af1ddd2,1,350,25.0,704,576,14.0,validation,train
+videppppsss_74.mp4,non shop lifters,a8515711d8c0452405123f9ac51bb00c67138fe5185ae8327038f40ed242b959,0,298,24.83,704,576,12.001610954490536,train,train
+shop_lifter_n_131.mp4,non shop lifters,7e92a8b406c5db717d75548c7f117e23038b12a3a7f481df47f12adb350f6939,0,325,25.0,704,576,13.0,train,train
+shop_lifter_n_183.mp4,non shop lifters,81ed1c04501d751b15f9adb3269cb486f6f2303ea55683a8934c470c8df21c45,0,375,25.0,704,576,15.0,test,train
+shop_lifter_58.mp4,shop lifters,19645e7f9c91c56fcf7f7f26f5ce185817ea21b50273330ae13295739ed59c5f,1,273,24.75,704,576,11.030303030303031,train,train
+shop_lifter_n_101.mp4,non shop lifters,d834ca0bfd8c46ea0efb581367b94aded61198eae186ce18fe3ce3054975bd62,0,300,25.0,704,576,12.0,train,train
+shop_lifter_n_8.mp4,non shop lifters,b4d6c82f5ba39eac635b306c2c5c75201574eee03143861b181bbbc9e815235a,0,375,25.0,704,576,15.0,train,train
+videppppsss_84.mp4,non shop lifters,53f21432e5c63a7b5811517073b61347e8f279183afbe7613299e86fa40f25b9,0,298,24.83,704,576,12.001610954490536,train,train
+shop_lifter_37.mp4,shop lifters,3ea4f0a37351608988b585c225b9b4428c62680a5b755c20c15315493835e84c,1,495,24.75,704,576,20.0,train,train
+shop_lifter_n_103.mp4,non shop lifters,98a6165d91f590cdad917da7125612b1a60972f6ab35cbd0a865b81c2f6a6554,0,275,25.0,704,576,11.0,train,train
+shop_lifter_n_49.mp4,non shop lifters,36f74ac2d1881cfdc0f6a853ca2e0a5ba9d2241bfa2d41f8292f6067f26ca13b,0,400,25.0,704,576,16.0,train,train
+videyyyyyyyyyss_12.mp4,shop lifters,77f787296a83741b3cb603e8be4ece7705aaf33b98de3dd85470c8cdaab2487a,1,325,25.0,704,576,13.0,train,train
+shop_lifter_0.mp4,shop lifters,cd7dec732aa90ce0cc8a6294f590e0b317e867ea33a58977de822f826386f9c8,1,322,24.75,704,576,13.01010101010101,train,train
+shop_lifter_59.mp4,shop lifters,e11bc00d1960734cb53f76fdf49f6dcac3fcfde6a14566ea259c2592f89a2c4f,1,198,24.75,704,576,8.0,train,train
+shop_lifter_92.mp4,shop lifters,712ddfdfc8ccf6d9d961c1f1685b582a5b9e4acb2c4896fc72480345a620acf0,1,375,25.0,704,576,15.0,test,train
+videyyyyyyzzzzzyyyss_0.mp4,shop lifters,f3749c6b94d37bcd409814bff504edc03a11d350cbc31dbe22c84ef0cec41918,1,350,25.0,704,576,14.0,train,train
+videyyyyyyyyyss_25.mp4,shop lifters,aee256ec435a12d2c6c7d99ad1cd3e01f20dc9d206f568e2709503a65653c424,1,275,25.0,704,576,11.0,train,train
+shop_lifter_5.mp4,shop lifters,68ec0471e1df58464d2f8ff08a7a41f0e48d62562d7ddecf06fe52626771465d,1,446,24.75,704,576,18.02020202020202,validation,train
+videppppsss_10.mp4,non shop lifters,9aecf53b2d63899c2d01e10f69b9e227d24cf22f55ff43ce44bf339c5b94f145,0,373,24.83,704,576,15.022150624244864,validation,train
+videppppsss_33.mp4,non shop lifters,0084f403afb1824c7d3341e0abf38417b5d9e32e1cd44b14e4e72f96b485ab4a,0,249,24.83,704,576,10.028191703584374,test,train
+shop_lifter_n_115.mp4,non shop lifters,6332f3a1ccd5db44cc0a1b7947d7b3e312a10cc2a8c6182cac4fe3bce8133394,0,275,25.0,704,576,11.0,train,train
+shop_lifter_127.mp4,shop lifters,fb91f6852f75621fb2b7a8a50504ec2386bd5a1e0b7a52b658ba151c8f3c0095,1,375,25.0,704,576,15.0,validation,train
+videyyyyyyzzzzzyyyss_1.mp4,shop lifters,79cb7bb2db69721b4254d5c1ec782cb42c76f11ff0d2f6edcfeec0fb183fb848,1,400,25.0,704,576,16.0,test,train
+videyyyyyyyyyss_1.mp4,shop lifters,b33a8d84b68734bfdd75f375efeb264daecf6cb114e3a1457642476b191ad0bf,1,275,25.0,704,576,11.0,train,train
+videyyyyyynnnnnnzzzzzyyyss_28.mp4,shop lifters,af3fb1c66a4f28d8a67a0f1c1b299d00d3862a54724546467f514cc94a9c0d41,1,150,25.0,704,576,6.0,train,train
+videppppsss_24.mp4,non shop lifters,85c4d9425bdf0cb62e41ab137890ff53f542d1e06c0cd63e1fd8e2555df38222,0,298,24.83,704,576,12.001610954490536,train,train
+videppppsss_37.mp4,non shop lifters,e36abec0d681737eeb8069263e5ba3b98b0c6b6b9cb85118f4084b1b9356854e,0,596,24.83,704,576,24.00322190898107,train,train
+shop_lifter_n_36.mp4,non shop lifters,4288ab6cf619ae4ca7b74c8782216a5f1a340236448c833d65aa969f7f888625,0,325,25.0,704,576,13.0,train,train
+videppppsss_62.mp4,non shop lifters,be68baf80f2eeb55984e760839291224ef6e8fac2d486bbb097c301321d4f537,0,323,24.83,704,576,13.008457511075314,train,train
+videyyyyyyyyyss_27.mp4,shop lifters,681c41ede8fdf0ad03da2ebf7ad3059e6bbd83e9209e516c8a1a3ea378d5ecfb,1,225,25.0,704,576,9.0,train,train
+videppppsss_60.mp4,non shop lifters,75a1d2f1a6287e9a4f715756c7cca4f631e91e111f940ffff74f4555a3c5ef88,0,447,24.83,704,576,18.002416431735806,train,train
+shop_lifter_47.mp4,shop lifters,f2dd3b9b36c60689c28b7b80784ce0c9704a24cd7145446bb7c061331ff3903e,1,372,24.75,704,576,15.030303030303031,train,train
+videyyyyyyyyyss_28.mp4,shop lifters,71f3450b958eabe2752a39c426265bd5dbf381884af6a70a7f21ac937a525b5f,1,200,25.0,704,576,8.0,train,train
+videyyyyyyyyyss_21.mp4,shop lifters,a5ec53dcba46d5b4a3f2d1a888b12dba21f2e4322501d3ac081ec3d47dfde616,1,250,25.0,704,576,10.0,validation,train
+videppppsss_28.mp4,shop lifters,4ad1079728f09ff880298d2627463b6926ee3ed2127d38404dba257e70b813eb,1,350,25.0,704,576,14.0,train,train
+shop_lifter_n_63.mp4,non shop lifters,72bb7b25d62ac554f0bdcda7aaf8e04fae10b0c63b2cf459f0c45a4a06eb51bf,0,350,25.0,704,576,14.0,train,train
+shop_lifter_n_4.mp4,non shop lifters,e4f72c1d0c365f2c251091a860a0569cbe48ed578f34941912db704964150fce,0,300,25.0,704,576,12.0,validation,train
+shop_lifter_117.mp4,shop lifters,00be5654d23cb7387df5f09b8ece46632a53af6754701e35b99265ae7d86cb62,1,475,25.0,704,576,19.0,train,train
+videppppsss_59.mp4,non shop lifters,ccdc053bb1d98d6536fc24d3f5dab053d35e112fc90bdc998ee8db8f9b17dfee,0,323,24.83,704,576,13.008457511075314,train,train
+videyyyyyyyyyss_24.mp4,shop lifters,9ede2c97d30863fbee0a86a4daf2be1e4bf823d04f9247158975a87a698bab73,1,250,25.0,704,576,10.0,validation,train
+shop_lifter_n_12.mp4,non shop lifters,be926ee9ab04fcf94fd3a4cd6113f292ad96d7972d59a29fc45f522a05e627c4,0,400,25.0,704,576,16.0,test,train
+videppppsss_25.mp4,shop lifters,fe1fbfe503462b2e1cabf0c60c78fadcfd00799a8b8805a6165ecc312a67b434,1,300,25.0,704,576,12.0,validation,train
+videppppsss_47.mp4,non shop lifters,5327f3d0ba88c23497cc1cc89f7f934235c758c200c91a5a716eaaa5e7511987,0,348,24.83,704,576,14.01530406766009,train,train
+videmmmmmmsss_100.mp4,shop lifters,84bd9d3358fb53b7bdebdeea8fcdbc15b966ed8dea459ccc27447623cb3a73d3,1,248,24.75,704,576,10.02020202020202,train,train
+videppppsss_6.mp4,shop lifters,9b20bd3d48e35d3fe3a31195c728b2ab5d6db3dd5c241609a7c48c4c2d254e3a,1,300,25.0,704,576,12.0,train,train
+shop_lifter_125.mp4,shop lifters,0321ecd3eda2f44f0ddad4436c96e45ea4a2c0f2ae838defd5f695983b51f3da,1,350,25.0,704,576,14.0,train,train
+shop_lifter_111.mp4,shop lifters,10627ac9f3b8b61f51f47f0b187f7750603637e4698f7dcbf4c7c96ca744c050,1,475,25.0,704,576,19.0,train,train
+videppppsss_68.mp4,non shop lifters,75761dbadf355863316fbba534df98aaecb71500fdd56b7f993e6e3f492c9980,0,249,24.83,704,576,10.028191703584374,train,train
+videyyyyyynnnnnnzzzzzyyyss_14.mp4,shop lifters,7589cca9c74aec2aac37447f2659519fba65a7e271f100e69f7135e7e1206180,1,225,25.0,704,576,9.0,train,train
+videppppsss_15.mp4,non shop lifters,d1e5d4f2067561014f4725c2076b92faeffa6951f1bc257c44ec6ef5ee478994,0,423,24.83,704,576,17.03584373741442,train,train
+videppppsss_58.mp4,non shop lifters,06114409f741ba92ad1664bc65078ef680f694321189ee67253d531d4f8b93b4,0,323,24.83,704,576,13.008457511075314,train,train
+videyyyyyyyyyss_16.mp4,shop lifters,9d91a34a63a90b15564c75ca53c414a9ee23b2fd147b0868990ff1b8b2449abc,1,250,25.0,704,576,10.0,test,train
+videppppsss_55.mp4,shop lifters,1a3f1ffcf668e244ec552c1d2fb1f64e971b7087be7115ecbb3b755d1c5b41bd,1,150,25.0,704,576,6.0,train,train
+shop_lifter_n_34.mp4,non shop lifters,c135b08e8255fcb7abf0a208c1720c0d1435b49afe0906ba73fdff5997c488de,0,375,25.0,704,576,15.0,train,train
+videyyyyyynnnnnnzzzzzyyyss_8.mp4,shop lifters,099371782f49da73433c16c7a4ee17bcf6b52013cca1b34c7b1d0ef5f5b85324,1,300,25.0,704,576,12.0,validation,train
+videppppsss_19.mp4,non shop lifters,57fb822c511634ef4e540b0a8bb886f811a98e097a176179c827642eeacbbc5c,0,323,24.83,704,576,13.008457511075314,train,train
+videyyyyyyyyyss_61.mp4,shop lifters,d70f9f4984c51db2337296594eddc38c60cd0bd10f52f0118b6395dd9bda0279,1,300,25.0,704,576,12.0,train,train
+videppppsss_55.mp4,non shop lifters,741b2015567a7448ff8f2d8986cd237597a8902ff075078180e560a869e166ed,0,398,24.83,704,576,16.02899718082964,train,train
+videppppsss_11.mp4,non shop lifters,4cbbc415b6a6e477d2fc2406725d1410c282a568cff4a0e5860eef773609a83d,0,348,24.83,704,576,14.01530406766009,validation,train
+shop_lifter_79.mp4,shop lifters,3c43876ad3fb696ef460a2251e5da7e50acc263f8ee9baf388b754944a901c46,1,273,24.75,704,576,11.030303030303031,train,train
+shop_lifter_12.mp4,shop lifters,18d10218d48bb76a2f3ba9f3dc6df71e52301e06ca95606477a060d3d52897ca,1,372,24.75,704,576,15.030303030303031,train,train
+videyyyyyyyyyss_0.mp4,shop lifters,c41de6e6064eb66437cd28b4d37579cc5a056c9b5d6c7516068609bc7e2453f7,1,275,25.0,704,576,11.0,train,train
+shop_lifter_21.mp4,shop lifters,ea648e41a883da8464c0ee19dd511d75e75c5bd988939003c2eb6297ee71e7d5,1,396,24.75,704,576,16.0,train,train
+videyyyyyyyyyss_13.mp4,shop lifters,b18abb459efe90b272b9d20275812f527fc17f230ecd5e8397a5ec9d237b4e37,1,300,25.0,704,576,12.0,train,train
+videmmmmmmsss_98.mp4,shop lifters,b157e2d81fa5dd63485290ed0be552fc7a3a39da3628800b5acf9017e1a3fe41,1,248,24.75,704,576,10.02020202020202,train,train
+videppppsss_53.mp4,shop lifters,134dadaaa17ad5c44d9b15308e097a4eacc35efe8ba5df0169311e055d5df008,1,175,25.0,704,576,7.0,train,train
+videyyyyyyyyyss_46.mp4,shop lifters,6ca4878ce01970d3869f40f216bb6b82b0a7f5b552a681f8722b42f51df19df4,1,350,25.0,704,576,14.0,train,train
+shop_lifter_6.mp4,shop lifters,6185432e1d67209a1970f40c3a90ce96b24788be4c8a7c26642c26989f1b7277,1,273,24.75,704,576,11.030303030303031,train,train
+shop_lifter_n_200.mp4,non shop lifters,2ccf8ae616937ee29806402789535d53ccb41931df985aedc9312ca83a4d507a,0,400,25.0,704,576,16.0,train,train
+shop_lifter_n_125.mp4,non shop lifters,3363e0e41e415a6abf70edf85a6a6525fc92a26c422561268db26f24574b406c,0,275,25.0,704,576,11.0,validation,train
+videppppsss_35.mp4,non shop lifters,ee9c07b547e78acae4582d1058d6e2ec263586d0425e1d2350e71d6e40098a6a,0,373,24.83,704,576,15.022150624244864,test,train
+shop_lifter_83.mp4,shop lifters,88dd73d52708c652cda850dd83bd31d96a85c85f3f619d95061ee10f7549373f,1,273,24.75,704,576,11.030303030303031,train,train
+videppppsss_73.mp4,non shop lifters,72f4a2c48efcc1007d5981a48be77c3dd7ee92b4d98f5835af773324cad17d00,0,249,24.83,704,576,10.028191703584374,train,train
+videyyyyyyyyyss_53.mp4,shop lifters,babcf09e35fb30cc8d5c25f37a2921fd8d8e6f6c571a8a363aef0a2cf511e867,1,275,25.0,704,576,11.0,train,train
+shop_lifter_10.mp4,shop lifters,e20e78435f3e3cb9c5d7ec5aa079f043c3394eb363b0bd54fd811c4b85c989c4,1,347,24.75,704,576,14.02020202020202,validation,train
+shop_lifter_n_159.mp4,non shop lifters,6a8271d80c5d0063a830b005a49ec3453366a1e44038a8908df460269d136fa0,0,375,25.0,704,576,15.0,train,train
+videyyyyyyyyyss_15.mp4,shop lifters,77cbfb95770af2ed75d577fbd4caa28f08487625d7eaff8f30acaee2cce4182a,1,325,25.0,704,576,13.0,train,train
+videyyyyyyyyyss_41.mp4,shop lifters,eb12611d3e1a448fd4bd398baa8572c96c83b5f9219adafe6daadae07f0563b7,1,200,25.0,704,576,8.0,train,train
+shop_lifter_126.mp4,shop lifters,9f7b788a668b006b1218726525c117a3ebc56ce60052b0d8c713daf49067a64d,1,350,25.0,704,576,14.0,train,train
+videyyyyyyyyyss_57.mp4,shop lifters,008518d6990616c0869341c1948adfff06b18ba748048fc2d55a3c07ec474916,1,300,25.0,704,576,12.0,train,train
+videmmmmmmsss_89.mp4,shop lifters,9a000db8f4c66dfcb692e8c2e855484363d327521f277b27cd62169d1219d350,1,273,24.75,704,576,11.030303030303031,train,train
+shop_lifter_45.mp4,shop lifters,680bac2508928f4c1b3803dbb77e8dea2c78d775c877749d6a560fdccc208bf1,1,396,24.75,704,576,16.0,train,train
+videyyyyyyyyyss_39.mp4,shop lifters,1ae7f9328fdea0310a5e8058f71847dbd68c570c284a3512795ea89ce1c863ed,1,225,25.0,704,576,9.0,train,train
+videyyyyyynnnnnnzzzzzyyyss_29.mp4,shop lifters,7dc7b4005beec929a2c41e2efb608f09bc91782d3bc139c5f53913b75a6ddea0,1,250,25.0,704,576,10.0,validation,train
+videppppsss_2.mp4,non shop lifters,a9fd1674fdcb6e8f903e59f5433f008ae2fa35fc9ce1dc2bcfee89c8868be6b3,0,423,24.83,704,576,17.03584373741442,train,train
+videppppsss_22.mp4,non shop lifters,8ad9a56a52e2f0080d3ca58590f543c408c3be69382ac5d0686b57a92e476243,0,398,24.83,704,576,16.02899718082964,test,train
+shop_lifter_91.mp4,shop lifters,77cfcde8d2ba1e079e24937c6ce86811ee852780089b1fe3518a6062298c22cb,1,525,25.0,704,576,21.0,train,train
+videossssstttsss_54.mp4,non shop lifters,163bdc257a7197b5bb4d33ebee87c7761ad8e343071fccbbc066f414647e336a,0,275,25.0,704,576,11.0,train,train
+shop_lifter_n_113.mp4,non shop lifters,99061eb7cf0b86addeabd09d4b3b85ab999c569550d52a45f6f520f37875ab3e,0,250,25.0,704,576,10.0,train,train
+videppppsss_77.mp4,non shop lifters,5128ef83fec4dcee1ca75464791363780da3ccee770f906dd3717dadf5270017,0,398,24.83,704,576,16.02899718082964,train,train
+shop_lifter_n_17.mp4,non shop lifters,3c8ee2c14a0a8d30b0975320cef0cf103be41c924bab2c7b6abce5cffb203868,0,500,25.0,704,576,20.0,validation,train
+shop_lifter_n_60.mp4,non shop lifters,129dc3a12e73ba717c77bc5047ea77f573df043a322e047409cb4f1d16eab584,0,200,25.0,704,576,8.0,train,train
+videppppsss_0.mp4,shop lifters,7147bbe03ff09beeaad40c989b8cd3782268a74bd623e4e4cd6241ac2dba0d15,1,350,25.0,704,576,14.0,validation,train
+videyyyyyyyyyss_45.mp4,shop lifters,ae1946dec605b9aae7a7c070545dc6f55c1b02be66b0fabfff70b21b657d061a,1,200,25.0,704,576,8.0,train,train
+videppppsss_30.mp4,non shop lifters,12a51140c43402f57b28f1b8689d946b2dca1ec3ce5be4658594f17cb0427947,0,249,24.83,704,576,10.028191703584374,test,train
+shop_lifter_n_13.mp4,non shop lifters,8b8e67bf34056b3c1b636c1dfb2cc3957429a24dff0d20bb75eda2185c007c5e,0,1850,25.0,704,576,74.0,train,train
+shop_lifter_n_169.mp4,non shop lifters,6d55d2f4db46412805408a0cd3facef4fcc15ef898bebbdb46d4e25778c4bb6e,0,475,25.0,704,576,19.0,test,train
+shop_lifter_118.mp4,shop lifters,bd2352075d89e79ad3735cafcefb5a2b9716f4be56b18d60393d63e593174558,1,500,25.0,704,576,20.0,train,train
+shop_lifter_n_149.mp4,non shop lifters,7ec6e4f149cc3d6d5c8ce0ff9bf807368bca3ae0d7c20e7f7712d90bb89616be,0,225,25.0,704,576,9.0,test,train
+videppppsss_64.mp4,non shop lifters,c18cda665965e5a4b680e7bcf25f47f9170280b32bc7bca0b68835a115e30272,0,224,24.83,704,576,9.021345146999598,train,train
+videppppsss_42.mp4,shop lifters,dbcb9dce7214d76a015caf70e6544d470d9ed9e82a74befcc6a47379a1d7e353,1,275,25.0,704,576,11.0,train,train
+videppppsss_28.mp4,non shop lifters,5bd769eac2d2a3a3b7c2826c8dc36bab3510cbf8b17857e03e4104915f6432e3,0,373,24.83,704,576,15.022150624244864,train,train
+shop_lifter_n_130.mp4,non shop lifters,e53a86e4888f64bd84f3f95cba3c365d3a1304f6428dd2de90fa5c0ae8dabb74,0,300,25.0,704,576,12.0,train,train
+shop_lifter_n_85.mp4,non shop lifters,24738b2a3c29a4bbb6d9497405c384f372983b9046b36e400d4416a3ee20e9ec,0,300,25.0,704,576,12.0,train,train
+shop_lifter_n_173.mp4,non shop lifters,234619cc67062071656086e4035d1c88ca040ec66a67be3168fb03c9d5bc289f,0,425,25.0,704,576,17.0,train,train
+videppppsss_7.mp4,non shop lifters,e4ea0de75a1fb0dece03866280787aa8a339df789a2530d35c8fdd22cd0955fa,0,373,24.83,704,576,15.022150624244864,train,train
+shop_lifter_99.mp4,shop lifters,2630f82ee57ecbec635880c3a6fa47c1e7554ff016e659547d3f829832da65e2,1,475,25.0,704,576,19.0,test,train
+shop_lifter_96.mp4,shop lifters,fe35f81f3df6d9366743ce77d912fc2a671dd44f78bff420070d4250eefcecbf,1,325,25.0,704,576,13.0,train,train
+shop_lifter_n_79.mp4,non shop lifters,63c9397c43776541c4d183478f1129bb155bf0d44f28fabd2a384b3749b64b6d,0,450,25.0,704,576,18.0,train,train
+videppppsss_19.mp4,shop lifters,221bd69009b18cb5ff00da90fc92169191d4c40e789a0b0e1485b42d0d01db62,1,300,25.0,704,576,12.0,train,train
+videppppsss_9.mp4,shop lifters,88746be9f476dd62d52ea0090a03d4244a39872cd18aadfe2250bb4b193c5b81,1,300,25.0,704,576,12.0,train,train
+shop_lifter_n_128.mp4,non shop lifters,93e34098075b2fe0f02196e2564da126d10690b9196a1bc57d3e4c87d6dcf9a2,0,300,25.0,704,576,12.0,train,train
+videyyyyyyyyyss_32.mp4,shop lifters,fbec43e04ff9d7c84947dbb96348d174899a807ab8371b391191a6461754c349,1,200,25.0,704,576,8.0,validation,train
+videppppsss_8.mp4,non shop lifters,a20f3633dd09d8e2c3fca6d9664456255c607624a97a9800b3a278e21e1d5483,0,249,24.83,704,576,10.028191703584374,test,train
+shop_lifter_n_16.mp4,non shop lifters,22dfaf7e02511713296e5303d20f88f523acef1360c21ea83dd4ac0477eff150,0,425,25.0,704,576,17.0,test,train
+shop_lifter_n_163.mp4,non shop lifters,b3bf8782706693301de74df5149cb9fb83b0a9c3a7c1ab1c9afecf4608f1eea1,0,350,25.0,704,576,14.0,train,train
+videppppsss_12.mp4,shop lifters,3413fd11a72305d9fff1450c6435b8fa0003408323191e53607ad4dad579cf89,1,250,25.0,704,576,10.0,validation,train
+shop_lifter_27.mp4,shop lifters,a05dee1731c88ce5456dcd870347372d38fdb4c3fef5ed3edb505cc2cff91b95,1,471,24.75,704,576,19.03030303030303,test,train
+shop_lifter_52.mp4,shop lifters,6b0e6bc3af2325c160906af593910d54fcb2bc3b370c9918674cfb953abf4a81,1,223,24.75,704,576,9.01010101010101,train,train
+videyyyyyyyyyss_35.mp4,shop lifters,f8e06144702d683f0421bf9112b338730153855e791bb2adc1eb46bcbb9c1ea0,1,175,25.0,704,576,7.0,validation,train
+videppppsss_4.mp4,non shop lifters,db52e15c4d2ba8a626b95611427e80fcfb8cc6315fc024a41f5a841a598c96dc,0,274,24.83,704,576,11.03503826016915,validation,train
+videppppsss_20.mp4,non shop lifters,c28cac382c58d1b026af958bf8c6b9b53064fa3e5f2ee06f35d286e7a40aa33b,0,398,24.83,704,576,16.02899718082964,test,train
+shop_lifter_121.mp4,shop lifters,72c57236a5421cfd75b2b2963b6bc590e7e87c50794a4063a07be9b7c2c9f901,1,400,25.0,704,576,16.0,train,train
+shop_lifter_84.mp4,shop lifters,4b74973fe666a8a5bb5499ba782c04963e884dacf6813a84964c7c56766f4939,1,248,24.75,704,576,10.02020202020202,train,train
+shop_lifter_81.mp4,shop lifters,acee24c979f91a702f6c363a4f7693d6dafdde8d6ebb42fe2af0a0169382eb73,1,248,24.75,704,576,10.02020202020202,train,train
+shop_lifter_n_86.mp4,non shop lifters,3adff0c7dbe427e26c6b76234257db943f319e5cb67e710a9b5009f3c095ffcc,0,300,25.0,704,576,12.0,train,train
+videyyyyyyyyyss_40.mp4,shop lifters,d495474949efc33de5ad81c61e972527afadb54944c1765dfc92f605b884e1de,1,225,25.0,704,576,9.0,train,train
+shop_lifter_128.mp4,shop lifters,0e90ea31500d623559dd4e86b779de68d1cd25736207c78523fe8832b88f9f0e,1,325,25.0,704,576,13.0,train,train
+shop_lifter_n_50.mp4,non shop lifters,4242a6be6bd41f95c13b2a430ffe6d3d981c19a86d8ebcd541b2750e51b36524,0,525,25.0,704,576,21.0,train,train
+videossssstttsss_48.mp4,non shop lifters,ae8c9ad6079d6c00c33dd96baf2b1ecd564650d2e3d8ae7e713148ae2ef396bb,0,175,25.0,704,576,7.0,train,train
+videmmmmmmsss_92.mp4,shop lifters,9d400ee33630b3854dc4b449dda48eaa96f9090f6be89c8e390a24a2240e5492,1,248,24.75,704,576,10.02020202020202,validation,train
+shop_lifter_103.mp4,shop lifters,71a18c921b2b8e108465bfaa320f001bbc672697fdaa31960bd1f340171f0d51,1,425,25.0,704,576,17.0,train,train
+shop_lifter_n_42.mp4,non shop lifters,aa481815416780a331989d2d148d1d2a623fa6094b384f404bed64662785a73d,0,500,25.0,704,576,20.0,test,train
+shop_lifter_n_152.mp4,non shop lifters,bb4896699330f3717124a9566c9d6d946b5ba1afb0b196d77280f67b8f76e712,0,400,25.0,704,576,16.0,train,train
+videyyyyyyzzzzzyyyss_7.mp4,shop lifters,27e620b8d558d0311efdb3c7d6f467d2850440cb00ce9f60d15278d2a6a6bbf8,1,275,25.0,704,576,11.0,train,train
+videppppsss_35.mp4,shop lifters,b238afa5ff13a7cb0f124b691dcba7ac22c29a7f559271aa9ea2290f4cb4ac89,1,375,25.0,704,576,15.0,train,train
+videppppsss_17.mp4,shop lifters,8d232d9613a628d3ce913004910d313685b6fd1a9148aa4c1f4f8752bcf6fcb9,1,275,25.0,704,576,11.0,train,train
+shop_lifter_18.mp4,shop lifters,a92b6528bffb9d68de37c320f367d40789dee044784b1eefd204748971db907e,1,396,24.75,704,576,16.0,validation,train
+shop_lifter_57.mp4,shop lifters,88915d826c53771af70de285c0e5e19ee3b57f4c497f316b9e9cbcb5edb9027a,1,198,24.75,704,576,8.0,train,train
+videppppsss_54.mp4,non shop lifters,0d78224e54978ff96c349e6b3aaf157a5a85801b09dad90f3a70202911c3512a,0,348,24.83,704,576,14.01530406766009,train,train
+videyyyyyynnnnnnzzzzzyyyss_5.mp4,shop lifters,bf2920af480bcd3add5a27186891c531917b7379f8de4f8868675aba6f7141e2,1,325,25.0,704,576,13.0,train,train
+shop_lifter_n_76.mp4,non shop lifters,85288fe178e116d3a6e1babf0033b63c87cfefaea4b515ebfdd77a4de20d335e,0,400,25.0,704,576,16.0,validation,train
+shop_lifter_41.mp4,shop lifters,52b44915d1668b12b1e293cc0137c66c26c427ce89b83e4d3de780e6716ec0b6,1,396,24.75,704,576,16.0,train,train
+videyyyyyynnnnnnzzzzzyyyss_0.mp4,shop lifters,fef2f35877b2dd111b6c4ea81be7378886096717c59677567c541929162b378c,1,375,25.0,704,576,15.0,train,train
+videppppsss_25.mp4,non shop lifters,d839a5586de32b98b664e60c6352c3c443ac65a6f169d2297bf39c4640eed0be,0,348,24.83,704,576,14.01530406766009,train,train
+videyyyyyyzzzzzyyyss_8.mp4,shop lifters,94f4a49427540131bb5cf1d0bb0d5bc4ccee6a9fc06499c631c21cb78da776ef,1,350,25.0,704,576,14.0,train,train
+shop_lifter_7.mp4,shop lifters,f9214545b5966647e1984ff18529a0c626f4d70abc87c3b548365dbc68af0f79,1,297,24.75,704,576,12.0,train,train
+shop_lifter_n_168.mp4,non shop lifters,83ea264103549be190ae70259b20f59e509ee07808a4b7c7e9ddf1d52c3776e5,0,350,25.0,704,576,14.0,train,train
+videppppsss_70.mp4,non shop lifters,6cf0da6a28bd66a9d24693ef8d315bcf28f66bcaf022522f8cc2391131b3ceb4,0,373,24.83,704,576,15.022150624244864,train,train
+videppppsss_41.mp4,shop lifters,cb426fbd493918d5bef184151a48519d111bd54bc7cafebe9c2d4dd3edcaa57a,1,300,25.0,704,576,12.0,train,train
+videmmmmmmsss_85.mp4,shop lifters,7ffc406b1acac4b86da4ba37101af512642b004c7569f6c9453d0bff40fa6ac1,1,248,24.75,704,576,10.02020202020202,test,train
+shop_lifter_50.mp4,shop lifters,07061125ae6e798136d8a86ff0bfa4b9ebb35bda454d7cd481a822396a9980e4,1,446,24.75,704,576,18.02020202020202,train,train
+shop_lifter_n_122.mp4,non shop lifters,64aba1bbe61b34a9f13da61e7ce297b0b31a5a7f17f5676ab18fe221b955c9d8,0,200,25.0,704,576,8.0,train,train
+shop_lifter_n_188.mp4,non shop lifters,5d854f14341a440404ac4ce4879a564ad66291c410c9de2662a09a44acae4116,0,275,25.0,704,576,11.0,train,train
+videppppsss_6.mp4,non shop lifters,06d0b3ceadca644af2c6776a6fb668aac244ef21cd47c73b931722df9dacf231,0,373,24.83,704,576,15.022150624244864,train,train
+shop_lifter_123.mp4,shop lifters,ac0412896ff1dfcf67102ef21343cf98e401773be4b709b136a8f7e4381b1d6f,1,400,25.0,704,576,16.0,test,train
+shop_lifter_n_95.mp4,non shop lifters,72631b6c20b21301ba5491f45522134101b681a429462b956042e6a23c60e4d2,0,275,25.0,704,576,11.0,train,train
+shop_lifter_64.mp4,shop lifters,bfacd892b3d340911d77fd72e7302fd4f9ac37ee9f4043fb8f89374ae721806d,1,273,24.75,704,576,11.030303030303031,train,train
+shop_lifter_n_136.mp4,non shop lifters,81d63abfe8d749e9064614b8fc8f9dcbf4ff45371bc520a70abea0ff2be65d3e,0,325,25.0,704,576,13.0,validation,train
+videmmmmmmsss_87.mp4,shop lifters,234418dcab956c7149a02b715adc69fe88315726bf98494d5f323d81e7c8773b,1,248,24.75,704,576,10.02020202020202,train,train
+shop_lifter_82.mp4,shop lifters,e53cc882e82e1c1b87426cf84c29adbba2468a4fe5ce1bc575f671c45951b9c4,1,273,24.75,704,576,11.030303030303031,train,train
+shop_lifter_n_51.mp4,non shop lifters,162eaa8952ca6de771d60d3f48bfdc40314118ce4b30f2cc004ed9867ec622bd,0,350,25.0,704,576,14.0,test,train
+shop_lifter_n_217.mp4,non shop lifters,5e0668e0c48e27c493b296d4bd6c53d0b119ab1095b13c4960c13bb87f538607,0,250,25.0,704,576,10.0,train,train
+shop_lifter_122.mp4,shop lifters,09744dc0cd84a7d0b2321b775afbe36519ddba96181a93192891ab65d5ea4163,1,400,25.0,704,576,16.0,test,train
+shop_lifter_n_18.mp4,non shop lifters,9ea205ee0c6549474f41f3fc1f8fc6064b0b65054b62e21742d1ace6c77b500d,0,350,25.0,704,576,14.0,train,train
+shop_lifter_n_215.mp4,non shop lifters,a75f3b3b6028c52840f03380615f42cda0339d428444a89979c4d05dd31166f3,0,75,25.0,704,576,3.0,train,train
+shop_lifter_n_58.mp4,non shop lifters,ea75e1ef126658cd06f65f181ebd91bf82633cbc50871b178cfac74a34b2a0d9,0,275,25.0,704,576,11.0,validation,train
+shop_lifter_n_22.mp4,non shop lifters,aaad36cafd118b8ce007548d1afcda3965e1bf80c0571370475d18fdc8a5f0c6,0,425,25.0,704,576,17.0,train,train
+videyyyyyyyyyss_62.mp4,shop lifters,1082f4f4899aa465f5b032ebac985f254162e8d39bb8d726233ac7680d809e3e,1,300,25.0,704,576,12.0,validation,train
+shop_lifter_n_186.mp4,non shop lifters,7e03f5ff39573f4c49b370db7cd45fb50c2be20e6b9823b53bdecd836f28a936,0,275,25.0,704,576,11.0,train,train
+shop_lifter_n_70.mp4,non shop lifters,4248a6aa1edbfd820b6b72cec973e80f6fa09ad91307958fc16e300f1081b0d3,0,375,25.0,704,576,15.0,train,train
+videyyyyyyyyyss_6.mp4,shop lifters,97256f4755aa615a154d42e9bf1e3f0433b0ac4394f9c504a23d30992f762e41,1,300,25.0,704,576,12.0,train,train
+shop_lifter_n_213.mp4,non shop lifters,a16c6c2e6c69759d974dd65ed1be9cbff95359cfc8369ab6624a31d7114b2eea,0,450,25.0,704,576,18.0,train,train
+videyyyyyyyyyss_54.mp4,shop lifters,926a894f2f908e71155085587f291bf35f9148f308748ca258ddc4b1336de621,1,225,25.0,704,576,9.0,train,train
+shop_lifter_77.mp4,shop lifters,b4af35c88c5d37017509acd986f5aa5b76d82a2687c654a0cc1ab76d2eede6fa,1,273,24.75,704,576,11.030303030303031,train,train
+shop_lifter_22.mp4,shop lifters,4aebe42a1d57344e42ae2d70f6ae0a7336cf6733e44ecd195bf7f6c78af9ede2,1,396,24.75,704,576,16.0,test,train
+shop_lifter_60.mp4,shop lifters,d416e583f3729b742fda50620f4b7607f27e77416e9283dea04bc015d7ed98dc,1,174,24.75,704,576,7.03030303030303,validation,train
+videppppsss_23.mp4,shop lifters,8c426b206a9e9d992b639cfb4a0c5ad137fba34c751c736bc9c6b375045d3721,1,375,25.0,704,576,15.0,train,train
+shop_lifter_n_120.mp4,non shop lifters,711505e5a980b2a494a7a0861ab2947ef66b888aec911664bed3ed21570c3b68,0,250,25.0,704,576,10.0,test,train
+videppppsss_65.mp4,non shop lifters,683a3f75b8750304bbdc610f00c139787397adcfc0532eaaec1f4e42c7ddcdfd,0,298,24.83,704,576,12.001610954490536,train,train
+videyyyyyynnnnnnzzzzzyyyss_7.mp4,shop lifters,c4e6b47256352547e8fc260506670de1192f592e4d56016b47761a923abaaa01,1,300,25.0,704,576,12.0,train,train
+shop_lifter_49.mp4,shop lifters,73e0003159344db33f3adff4beb0ef3ddc43690a5c99922517ba8811415edbeb,1,347,24.75,704,576,14.02020202020202,test,train
+videppppsss_40.mp4,non shop lifters,15233d0e462fac045ff28eac21297c407f711203e2eeaa0136b9763d7e9be591,0,373,24.83,704,576,15.022150624244864,validation,train
+shop_lifter_20.mp4,shop lifters,bc00a993df61530bfc962f021f118e9197ea6229d6f2f2455070fbcfe158f2e1,1,446,24.75,704,576,18.02020202020202,train,train
+shop_lifter_n_14.mp4,non shop lifters,7de7c1ce8195f5358593e7afb07301a15a7b509f83a9edb3653974694135d930,0,400,25.0,704,576,16.0,test,train
+videyyyyyyyyyss_14.mp4,shop lifters,da67f399d8428984752852cc5a973f830405c0a34717980a78b6032000270104,1,325,25.0,704,576,13.0,train,train
+shop_lifter_n_204.mp4,non shop lifters,bedec9126302b52b8fcea27c84bbcd11fd924fc46dfedd9e615e79a10a8e7e41,0,400,25.0,704,576,16.0,train,train
+videppppsss_76.mp4,non shop lifters,7146be8ecbd4ecb8ce402239c4128e0ff7f8b6f312b0a19f5db58375e0ce2b20,0,323,24.83,704,576,13.008457511075314,validation,train
+videyyyyyyyyyss_3.mp4,shop lifters,85af79e828d2e41606cc3eb80c392f8d582180a466a40581f7a9f119f35ba6ad,1,325,25.0,704,576,13.0,train,train
+shop_lifter_n_21.mp4,non shop lifters,fd6b491ce84f3d81a4279f86bcb92c4c6c50a3caf38034877292232d786de94c,0,350,25.0,704,576,14.0,train,validation
+shop_lifter_n_147.mp4,non shop lifters,0c34a1abc49071001f9936f75024c6e5506e6d172a5829f75d97c62c1e01a147,0,325,25.0,704,576,13.0,train,validation
+shop_lifter_n_172.mp4,non shop lifters,227f3ebd1ca418f149a155fb2d1837940a0164f5dfdd411a946ddd39801eea62,0,350,25.0,704,576,14.0,train,validation
+shop_lifter_n_94.mp4,non shop lifters,57282a5e0a4c59a6ef3d1d54f4ddbdd3b9c04cfea134c251028b5757036f9ba6,0,300,25.0,704,576,12.0,train,validation
+videppppsss_29.mp4,shop lifters,2a6ea8eeee1a02c6958cb6a5d9dad4a6ebfed08ca37fae5bc9ec41d37d09256e,1,400,25.0,704,576,16.0,test,validation
+shop_lifter_n_74.mp4,non shop lifters,4af5e7f24bb2137611cc10824313cfc2ce3f19e320d63c9e5cbc7bb262cd4455,0,325,25.0,704,576,13.0,validation,validation
+shop_lifter_120.mp4,shop lifters,1e0d7d0449c17106e7dc92346198072b661c9650c36ebce4fa205f57658df60a,1,475,25.0,704,576,19.0,test,validation
+shop_lifter_71.mp4,shop lifters,ef26629a1881404f1bc6d57f858aae3d854b1b4e424eddefd5c16d50b99954f3,1,248,24.75,704,576,10.02020202020202,train,validation
+shop_lifter_n_146.mp4,non shop lifters,57356f96e03f4a3143756ed489a1febe617b0095dfc2e006fdce4429d381d91a,0,300,25.0,704,576,12.0,train,validation
+shop_lifter_n_98.mp4,non shop lifters,ea33882003f2988f937f95494d49e4a26604d275043d7b56e2b19f308698617c,0,275,25.0,704,576,11.0,validation,validation
+videppppsss_3.mp4,non shop lifters,dae76943372bdf1aeb654d4d80c7cc45338d472b70dcc8db24a94d3d2df248b0,0,249,24.83,704,576,10.028191703584374,train,validation
+shop_lifter_67.mp4,shop lifters,841f793c772f053729c8c8883eeefd834b0b0a78aef02ec4c97d6eb907a2aba2,1,347,24.75,704,576,14.02020202020202,train,validation
+videyyyyyyyyyss_63.mp4,shop lifters,122f1de6cdacf60a2e1d274267515e96361d9badb31463c523a55447891dee63,1,275,25.0,704,576,11.0,test,validation
+shop_lifter_17.mp4,shop lifters,270afe2200a8adacc16e82f1386645054324d03a8b4116db2df73a586c9974b7,1,396,24.75,704,576,16.0,validation,validation
+shop_lifter_n_143.mp4,non shop lifters,f518384caeb0c6cd3822826f6f2ec36c652b3103b319b00754037a16cc0d1221,0,375,25.0,704,576,15.0,train,validation
+shop_lifter_n_145.mp4,non shop lifters,13269a7fc7841ba2412dbd4bd6e21ee2dcc5cb88155a4765467d8cea75504b2f,0,300,25.0,704,576,12.0,train,validation
+videppppsss_63.mp4,non shop lifters,e38193729638ec6f3c392f6b7af1a427c6e5e5e0d23f09144b964ce7edeb6777,0,224,24.83,704,576,9.021345146999598,train,validation
+videyyyyyyyyyss_38.mp4,shop lifters,ded442440e618f3ab519ab640d7a2ee606edbf598e9c34f82543c21205de8e3d,1,200,25.0,704,576,8.0,train,validation
+shop_lifter_n_48.mp4,non shop lifters,d9cd607c46a3767edc42c9ceeffdd2f9c2dc21d06f54fe63bb5ef4c77fa608c2,0,375,25.0,704,576,15.0,train,validation
+shop_lifter_n_162.mp4,non shop lifters,248a0b84ffd9d937fdc56192a7db9c8cc128befa584831f26c56c732c12895b7,0,350,25.0,704,576,14.0,train,validation
+videyyyyyyyyyss_29.mp4,shop lifters,c5f0cee4607eed9d7105c206c4f4e1395aa7fc0619b807d9c5c7ca44383069cd,1,175,25.0,704,576,7.0,train,validation
+videyyyyyyyyyss_10.mp4,shop lifters,8c0d11fa3dde4778a82f2e45f59f6138bafa7ce6f1faecd1053f8ae6c1bfc101,1,325,25.0,704,576,13.0,train,validation
+videppppsss_49.mp4,non shop lifters,fb76892dd23bab99ea7390ad9eab7650a6a779bb7bb52616ea25aed36bbd65d2,0,298,24.83,704,576,12.001610954490536,train,validation
+videyyyyyyzzzzzyyyss_23.mp4,shop lifters,ff2197accd5a4228822ce8d8a373bc92381651ffe75904e11ca7b35f217bc1a3,1,250,25.0,704,576,10.0,test,validation
+videyyyyyyyyyss_44.mp4,shop lifters,96f9cc243fa60c2eb9a590390506c1076e8b73fa5f00a65eeb278d6a4ae48cfb,1,175,25.0,704,576,7.0,train,validation
+videyyyyyynnnnnnzzzzzyyyss_23.mp4,shop lifters,7a2ec504de08d282f0aaedec080236879b64415890d8a8f0d28de7a0db55ed13,1,200,25.0,704,576,8.0,train,validation
+videyyyyyyyyyss_42.mp4,shop lifters,8fb023ffec2f6b99cc1148f2ba67892d0e9593841f3d9f051927017fdf30fdf8,1,100,25.0,704,576,4.0,validation,validation
+shop_lifter_n_47.mp4,non shop lifters,3b910cda6db7a2b1abfe11484fbbc7ec602a3fb77c4b6b407048922431800b8a,0,525,25.0,704,576,21.0,train,validation
+shop_lifter_n_27.mp4,non shop lifters,c67f8c923b957ad12e9cb62e678f3f8c75947cf11180bafc902d16dfc7c59123,0,200,25.0,704,576,8.0,train,validation
+videppppsss_44.mp4,non shop lifters,f1709827e91a38e37b929a1c5c4664e871c6e11f8dbb9a26dd07bba2a1926dec,0,249,24.83,704,576,10.028191703584374,test,validation
+videppppsss_9.mp4,non shop lifters,76e2e99a40d353fbead31004288a2a90ada88f60b414f02909de9ac79e62ff25,0,249,24.83,704,576,10.028191703584374,train,validation
+videyyyyyyyyyss_60.mp4,shop lifters,9ccf970931c99530a02e64003d65ba31890ff6cd15addda5c9ffd515bc6366e8,1,250,25.0,704,576,10.0,train,validation
+shop_lifter_n_161.mp4,non shop lifters,7b01218e32beac4445202dbd0ae411957786469e779992b538f4260a077c45cd,0,400,25.0,704,576,16.0,test,validation
+videppppsss_15.mp4,shop lifters,3a42a23a62d90e284c54b89ee3b4868d4f6708bbe4ad1a1612901b7ef932146f,1,325,25.0,704,576,13.0,train,validation
+videppppsss_36.mp4,non shop lifters,a4402a3b2d12a4f13b033d561ee92cd7555ac069d81bd7acfc65bbf77f1ffda5,0,298,24.83,704,576,12.001610954490536,validation,validation
+videppppsss_52.mp4,shop lifters,ad8d36c6eafdde2a324fe3c0306bb68487be9fdbbc78132a31e361b2de808db4,1,175,25.0,704,576,7.0,train,validation
+videyyyyyynnnnnnzzzzzyyyss_9.mp4,shop lifters,e4146a30090b1b9208de0733bd191a444edb7d31e56bb4503ee36acb84d4b8fe,1,300,25.0,704,576,12.0,train,validation
+videppppsss_27.mp4,shop lifters,6be28d2ccfaddfd15efde8d3fcd624d68ed3d57f2c66f4579c7a7383034b0656,1,300,25.0,704,576,12.0,validation,validation
+shop_lifter_98.mp4,shop lifters,a3d5715cadacf0fa337df0a73a2aadf73df1d2a3a1d0fb3d7277a4dbc783c7a3,1,400,25.0,704,576,16.0,train,validation
+shop_lifter_n_110.mp4,non shop lifters,e76a3c2af7337772cc4a5718663b341160f3548fc05cd99add6cf96954fab1f7,0,175,25.0,704,576,7.0,train,validation
+shop_lifter_n_99.mp4,non shop lifters,bb1abbb374cde17c0f85a6f62842c36edfd921e8ba0c83f2fad20905489635e7,0,400,25.0,704,576,16.0,train,validation
+videppppsss_38.mp4,non shop lifters,551cf64c6dbcded07c73ba8c4cd377dae37ab9b285a15f2d37d315943a150c1d,0,249,24.83,704,576,10.028191703584374,test,validation
+shop_lifter_n_137.mp4,non shop lifters,06dbe2854763534454f8fbc0fa5b62e2155064159e7831c64bf9a4f63e218ec2,0,425,25.0,704,576,17.0,train,validation
+shop_lifter_n_129.mp4,non shop lifters,9eceb98604197f0cbdeb67edc18f782a2094d1af2a83f45567294954c1a9ee2d,0,250,25.0,704,576,10.0,train,validation
+shop_lifter_n_117.mp4,non shop lifters,1ee242ebebaaeb587fba94c7564cbe3b482707e5ffc704051d5e47ca16ca58a6,0,300,25.0,704,576,12.0,train,validation
+videyyyyyyyyyss_64.mp4,shop lifters,e863758faff61a6cd039afc78d3be0b1f72e6d9ee39a82e98f07db4cee868d50,1,275,25.0,704,576,11.0,train,validation
+videppppsss_43.mp4,shop lifters,cbd6f6a7ba9afc47be02bc04359516eeac88f39398a23c7122e95c8bfd3494ef,1,275,25.0,704,576,11.0,test,validation
+shop_lifter_3.mp4,shop lifters,a224fd9131c8bb10c9e02d289a3f35f183966ff7da46e6489dd3622cc9dc04d1,1,198,24.75,704,576,8.0,train,validation
+videppppsss_16.mp4,non shop lifters,0a2c24a868bfbe539c07bc5b52de5ab9efe2c92b72305e20e3a11c375aac8a60,0,373,24.83,704,576,15.022150624244864,train,validation
+videmmmmmmsss_94.mp4,shop lifters,05f8650a2970fe5331d84487d7bdb3166ddef340de60e8018a4c29e55c525d13,1,273,24.75,704,576,11.030303030303031,train,validation
+videppppsss_41.mp4,non shop lifters,82fb97463886c382fdd053af24e26f0e719f0a2fe7b6706e24f5b23a9c35ac5c,0,323,24.83,704,576,13.008457511075314,train,validation
+videppppsss_69.mp4,non shop lifters,4b1ca7fddc258b45aeb9893c76139edbde7e2dd58bd38471c5572d721abb6265,0,224,24.83,704,576,9.021345146999598,train,validation
+videppppsss_17.mp4,non shop lifters,a9b7951785f8baaaba3d47e4fc207f334523b563ccb7b5864d2b4dfe2e2d4424,0,373,24.83,704,576,15.022150624244864,train,validation
+videyyyyyyzzzzzyyyss_21.mp4,shop lifters,5f48eaf55ede677a0378517463aa937ba894e3a484bc8bdf603cd15e30ae4c0e,1,200,25.0,704,576,8.0,train,validation
+shop_lifter_n_97.mp4,non shop lifters,ffcee8c61e7e1567211947584b2db585f1710173be20820d649a45c3c578817b,0,375,25.0,704,576,15.0,train,validation
+shop_lifter_13.mp4,shop lifters,c061442fb60242acd45c28ecdc074785070eecde4930b2036ec296075a5b9eee,1,322,24.75,704,576,13.01010101010101,validation,validation
+videyyyyyyyyyss_58.mp4,shop lifters,c0a9d383808fe5816cac6dbc39c00d6c48b28cbb26dfd5ccb74d56f62bd6c47c,1,250,25.0,704,576,10.0,train,validation
+videppppsss_49.mp4,shop lifters,aa5efcaa2d2ad5b5c90936ff091aeecb9b273f51378a93c6df6207bafb14dcfd,1,275,25.0,704,576,11.0,test,validation
+videyyyyyyzzzzzyyyss_12.mp4,shop lifters,f360965a44ff5b54476d097bc0f137903e0cd8df2ffdb2876a2e911374c3ccf8,1,375,25.0,704,576,15.0,validation,validation
+videppppsss_0.mp4,non shop lifters,b2fefb618615ed6064bf23280f3b62b81620bbf30e99b97237b0afa2379d947c,0,472,24.83,704,576,19.009262988320582,train,validation
+videppppsss_38.mp4,shop lifters,0fe174e4b9515430e73e9a30e8ccd3e3fa46f10b72740ea1d49270befc241043,1,425,25.0,704,576,17.0,test,validation
+shop_lifter_n_73.mp4,non shop lifters,04b34ec77f870028b30bfbe7b682d455e4e02238abe97df79dd12aecd4d5ba28,0,425,25.0,704,576,17.0,test,validation
+shop_lifter_80.mp4,shop lifters,94b1c0da71969f029c71b7ca6b9d94d1a84487c8dff4dcd2c723896295e0c17c,1,223,24.75,704,576,9.01010101010101,train,validation
+shop_lifter_76.mp4,shop lifters,cdfbe0fbc2a0403ce5f197391d7338ff03f47f4b4e5e2db384c67dc598cf7962,1,248,24.75,704,576,10.02020202020202,train,validation
+shop_lifter_n_140.mp4,non shop lifters,fa6ff116548cd6cb5798e5c11ef38e544393331eb24f7e9389e591b1cb80e055,0,325,25.0,704,576,13.0,test,validation
+videppppsss_10.mp4,shop lifters,a001313c8197b6ee31f75fea61dc640e7467867e4e72cbf1874cd0f3560eb910,1,250,25.0,704,576,10.0,train,validation
+videyyyyyyyyyss_50.mp4,shop lifters,51887839f8e13a4a307fc292289e9888e40f961b0bc11d493f61aa9c246cbf29,1,250,25.0,704,576,10.0,train,validation
+shop_lifter_n_181.mp4,non shop lifters,4d1802c42f133e2df2f1b24ec2f246df415bbe2e9529e3ba6b4564ae24bcd6d9,0,275,25.0,704,576,11.0,train,validation
+shop_lifter_n_141.mp4,non shop lifters,fd7921d05739e5bf39ae92bc1c7ae93da19934a12f3dfa946d1efe27afbb1e7b,0,375,25.0,704,576,15.0,train,validation
+shop_lifter_102.mp4,shop lifters,bd6232ba3e56c778d04baead1ef03350a6d113a1bfba3dbba6053efc130a2ed2,1,475,25.0,704,576,19.0,train,validation
+videppppsss_53.mp4,non shop lifters,e705a55bf8a86f5b8c11e9342820f2869f4dd6db7a18b7bb818829966cb1985d,0,373,24.83,704,576,15.022150624244864,train,validation
+shop_lifter_n_184.mp4,non shop lifters,30ef215aa918347f8d25dd7694ad6346bce5691401eed4c80fda4bf2f5adcbfe,0,300,25.0,704,576,12.0,train,validation
+shop_lifter_n_194.mp4,non shop lifters,16a1041a9959863e93bb2177c45e36f4713397c408cd8806fa7d73ce611c957f,0,250,25.0,704,576,10.0,test,validation
+videppppsss_40.mp4,shop lifters,a6982bf85b4ed4982a758f20e1da6fb2feff11985554347369fcabf732aca8a6,1,225,25.0,704,576,9.0,train,validation
+shop_lifter_113.mp4,shop lifters,c59166e22cf6f4720a88e4744b396b2637373b3eeb2efdea8765b46b3420cdb6,1,325,25.0,704,576,13.0,train,validation
+videmmmmmmsss_99.mp4,shop lifters,8fe6b20e17abcc3db8a00ccb420112c6e42caa35c4fbb461f795d3d57816ee70,1,273,24.75,704,576,11.030303030303031,train,validation
+videppppsss_20.mp4,shop lifters,f9da90a6431d8f16717c3c635029c8ae536840a46d3240b9330796eab2eb3ad9,1,350,25.0,704,576,14.0,validation,validation
+videmmmmmmsss_97.mp4,shop lifters,e4d2b91fbbb8a9c507d41e928879543877ed5f03b041c01a84dbe30571d45d6f,1,223,24.75,704,576,9.01010101010101,train,validation
+shop_lifter_n_9.mp4,non shop lifters,54a9953df1581940d71bc456fd37252c84fcb95cd9d92769af8501708f5212f9,0,325,25.0,704,576,13.0,train,validation
+videppppsss_42.mp4,non shop lifters,10bcd7fb71eb2fcf1a0e7935a32159da7bb4a727c761e12f16183cbeaf9ea201,0,373,24.83,704,576,15.022150624244864,train,validation
+shop_lifter_15.mp4,shop lifters,88b579010aedeb933e4cfcc769c7c1be4df355881b25fc3e607f6077d33bf692,1,421,24.75,704,576,17.01010101010101,train,validation
+shop_lifter_97.mp4,shop lifters,39dca1885dd82667b45a24300b35b641ba93741d6ee73aecf8bb3bd98e1044b6,1,425,25.0,704,576,17.0,train,validation
+shop_lifter_n_39.mp4,non shop lifters,a16d89c7fef7ef01b1295cb35551bf8f3226bdd0425df12dddbaa37318554525,0,300,25.0,704,576,12.0,train,validation
+shop_lifter_n_6.mp4,non shop lifters,8cff9a46ed9d251ead7798da9d95313b2f11339f71e5b6aef6514f925c5eac59,0,400,25.0,704,576,16.0,train,validation
+shop_lifter_68.mp4,shop lifters,3accb23086272d5d80bd708c85f5890f0b31d54f14715c88029c3c78498c1292,1,198,24.75,704,576,8.0,train,validation
+shop_lifter_8.mp4,shop lifters,e2ee05da51a01e447363cae595ae3365892a81350f11d84e219c99b6c2ef12e7,1,322,24.75,704,576,13.01010101010101,validation,validation
+shop_lifter_36.mp4,shop lifters,76c54ce2bc60ef2c51fee777e9fb6a32fb1661b5d419e52315cfa64a1b504d84,1,396,24.75,704,576,16.0,train,validation
+videyyyyyyzzzzzyyyss_20.mp4,shop lifters,010dfbf76e4525fa02789c6dcb48690713eb8cdd451079097f20e87d1f4b11b4,1,200,25.0,704,576,8.0,validation,validation
+shop_lifter_28.mp4,shop lifters,f277418c0e1b0d3a737ee5244ffe39710170446ac45e7bfc27035f4099bbdf06,1,372,24.75,704,576,15.030303030303031,test,validation
+shop_lifter_87.mp4,shop lifters,a8cb91dadfb6c25a885ef15f0cd51e131d87be5743562dbdd982165066e87746,1,350,25.0,704,576,14.0,train,validation
+shop_lifter_n_96.mp4,non shop lifters,8bf8bc756c650636d27a870620e3d742715d82738ad940a387105368a79f1756,0,250,25.0,704,576,10.0,train,validation
+shop_lifter_n_55.mp4,non shop lifters,99b9175ac90fc419b038b4732b2c2a299dda7676cb0210ed89f98184ee18598c,0,325,25.0,704,576,13.0,train,validation
+shop_lifter_n_24.mp4,non shop lifters,5b36d7b3fdd40a01960de05c1d297ddfdbc4a35d9f3386c6c35361cc9502bc0b,0,275,25.0,704,576,11.0,validation,validation
+videppppsss_52.mp4,non shop lifters,43238a27d5ae633a1b5b85c92e0d41056374b84b2ac84fa51f43e93cc8ebd9af,0,423,24.83,704,576,17.03584373741442,train,validation
+shop_lifter_31.mp4,shop lifters,aa9c90d562f8c457d57a38cd888a9a934e4b0c0a0ce55a4e4168a47bb9ce449d,1,396,24.75,704,576,16.0,train,validation
+videppppsss_18.mp4,shop lifters,48cc8f6f0c50a3046b4a076a468160c095ff225dccaaef6ea9363174a1290355,1,500,25.0,704,576,20.0,train,validation
+shop_lifter_n_178.mp4,non shop lifters,354cc19bac6523c85bd6d8454a96d2a33cf56054b113bb1071826e548f407008,0,525,25.0,704,576,21.0,train,test
+videyyyyyynnnnnnzzzzzyyyss_27.mp4,shop lifters,b7682bb2833c4cca7dbed4cbac92b4e758d997d13c84e2421a3936f933d5b9fd,1,250,25.0,704,576,10.0,test,test
+videppppsss_48.mp4,shop lifters,508f1f745b2710e177d4503e2b375f31db3e9cefb61eb22077a967a23e38d44a,1,250,25.0,704,576,10.0,train,test
+shop_lifter_34.mp4,shop lifters,37b5bfa93352f13827810b9bda53a1b29b0b0a772864da7812712954fbcd52b0,1,223,24.75,704,576,9.01010101010101,train,test
+videyyyyyyzzzzzyyyss_14.mp4,shop lifters,babca03c617978f4d7ca33e51b91e0f1d9b70048f68bef54a2315d4d1dfa9a3b,1,250,25.0,704,576,10.0,train,test
+videppppsss_34.mp4,shop lifters,518a91a6fcffcb904c65050fe6ce61c094a49eb648a5da6bcfea8e975d599763,1,400,25.0,704,576,16.0,test,test
+videppppsss_21.mp4,non shop lifters,2303805fbeea6bf467b2f3ea3f24ee1b708d32fc6effacfe9d4f6aef744f7a60,0,323,24.83,704,576,13.008457511075314,test,test
+videyyyyyyyyyss_51.mp4,shop lifters,b8d59bd05773ef70ec26464919030e22d8e43b65e1d81df1ed9a754e50aa4291,1,250,25.0,704,576,10.0,train,test
+videppppsss_81.mp4,non shop lifters,401f31c7f211b0b483e51b7d2abbdbcdbe9a8d42687ef24028e80c26767b7181,0,348,24.83,704,576,14.01530406766009,test,test
+videppppsss_13.mp4,shop lifters,e7e75ad1404183401eb2c8ca30ff4880c367e42b68c7a8eacc0eaebacc746eb7,1,350,25.0,704,576,14.0,test,test
+videppppsss_47.mp4,shop lifters,36e5ba7df2d9340e11360b40583789b38fed7a84beab7f27638d4018e4a5dc13,1,225,25.0,704,576,9.0,train,test
+shop_lifter_n_23.mp4,non shop lifters,130f3a0b962039ce59feaebe18c2d8721d58062b5a87da901f216b1a4272f55a,0,350,25.0,704,576,14.0,train,test
+shop_lifter_n_40.mp4,non shop lifters,6612b8119edd1728111b409cdf3bd1f66bb1366f12ff410706fddd12ee88f077,0,575,25.0,704,576,23.0,test,test
+shop_lifter_n_191.mp4,non shop lifters,fc6137f9d7616c315bb5b356a0bce188735200053e6cdeb30ff3607fc4386d05,0,175,25.0,704,576,7.0,train,test
+shop_lifter_n_133.mp4,non shop lifters,23359632fada4311e962d3b08ecab6565f95357c9bbce84e60507dccc00481e2,0,300,25.0,704,576,12.0,train,test
+videppppsss_78.mp4,non shop lifters,a0d5a877c704a20463f226b2745133004811fa2fd2be925f38c3944d1216a4d8,0,298,24.83,704,576,12.001610954490536,validation,test
+shop_lifter_n_52.mp4,non shop lifters,c15bf13e4cb4ab01d4746e09d580a3946cb2389ea2b3d6f687d669006fada8eb,0,475,25.0,704,576,19.0,train,test
+shop_lifter_23.mp4,shop lifters,5d5118d031250eca73d0ec2c9ef021397501cd0b8962da6fc22e48caa98eba20,1,396,24.75,704,576,16.0,train,test
+videppppsss_45.mp4,shop lifters,1fdb0ba51a951864f6fc7a5996faad01f608824a997d08fdaa88d8d78a460d17,1,275,25.0,704,576,11.0,train,test
+videppppsss_45.mp4,non shop lifters,ed2a33aad667e18f0cdc907a2cf387ea3eeaee37932ab895f3b56c4685cef32d,0,447,24.83,704,576,18.002416431735806,train,test
+shop_lifter_n_156.mp4,non shop lifters,f8d50c284aa82cc482eb1ed82061a284a898c996e62468c6ad6c01df4aac0e5b,0,200,25.0,704,576,8.0,train,test
+shop_lifter_n_1.mp4,non shop lifters,e4b9b3c879e079bb21ba0253346d75f3309a25c5058b56d1be286348df32380f,0,450,25.0,704,576,18.0,train,test
+shop_lifter_n_138.mp4,non shop lifters,84f889b6f4d3929968c3590b0c68d2828a2cc54b18052b9e442600b79df5a33d,0,275,25.0,704,576,11.0,train,test
+videyyyyyyyyyss_20.mp4,shop lifters,4b6405ae3b35811c7fdf7e5a81c3919992a7200ec4f4427f98f7d74fd2a21bbd,1,225,25.0,704,576,9.0,validation,test
+shop_lifter_114.mp4,shop lifters,6e659d3a196d9dff68a27f37c87b7a95c83c82c1ab9e27ef777549c95799ccd5,1,350,25.0,704,576,14.0,train,test
+videyyyyyyzzzzzyyyss_18.mp4,shop lifters,762a730e62a1fd5d4358b7010bda6f4b9587b0f592ba8d85d5647692fd110c0e,1,275,25.0,704,576,11.0,test,test
+shop_lifter_n_119.mp4,non shop lifters,3b6009fe4876c2e1f5f9207ec4538dc9a6b49107274899e229dd571dbd66f89a,0,250,25.0,704,576,10.0,train,test
+shop_lifter_90.mp4,shop lifters,396d6e5af4a7353467b879f15886deadec16026769b969cb7e6d67b387ead980,1,425,25.0,704,576,17.0,train,test
+shop_lifter_n_216.mp4,non shop lifters,9b3b59e6813b6f293727ca8d401310c9e116dd7937cf990a4df4e5dadc3330f5,0,350,25.0,704,576,14.0,train,test
+videyyyyyyzzzzzyyyss_10.mp4,shop lifters,8710fdf168fd4f4e3e5066ad20ccbd2556a70f77e16361296d601a68ecea1ce6,1,200,25.0,704,576,8.0,train,test
+videyyyyyyyyyss_26.mp4,shop lifters,7bab4821d2ffe7727060b8cc7a6360bea76423f499eff653941184c9ece408c0,1,200,25.0,704,576,8.0,train,test
+shop_lifter_n_179.mp4,non shop lifters,162dadf095ddb7bd6cd02a6615f4c4fa17d659f5784251f3a8f20a049ffbe38a,0,150,25.0,704,576,6.0,train,test
+shop_lifter_n_116.mp4,non shop lifters,4b8ff46703213cc17319134fc1f0928a99efda0282d62c238b2db232711734fb,0,250,25.0,704,576,10.0,train,test
+shop_lifter_75.mp4,shop lifters,6941c0a41b2f02acba7051d0d7e70ed0bc056478c08a4e987e00ed89e6eed036,1,248,24.75,704,576,10.02020202020202,train,test
+videppppsss_23.mp4,non shop lifters,689af569b9e7eef54bca12a1f71c96610bd213fe2e9b60fab5ea658f5e94641f,0,348,24.83,704,576,14.01530406766009,train,test
+shop_lifter_n_208.mp4,non shop lifters,36543fa4fe77d43a21cd349d4b043ee118222662667b198e00ebaffc8791cbfc,0,475,25.0,704,576,19.0,train,test
+shop_lifter_n_189.mp4,non shop lifters,f74c34b45a8430e1417f4f18c12a9fb1409fe92eacdc1d58e31e830b39ff6bd8,0,200,25.0,704,576,8.0,train,test
+videppppsss_34.mp4,non shop lifters,dfda2f29c5d6283fbf9b99a5ba544b16f4a957cd06324a643f6032a5116783e7,0,199,24.83,704,576,8.01449859041482,train,test
+shop_lifter_n_105.mp4,non shop lifters,e8124b5f55f63804916399a326de550e157737d30d2ac543ddc0777742b5f4de,0,275,25.0,704,576,11.0,test,test
+shop_lifter_85.mp4,shop lifters,3e10d3b2d2158f0e42094cadd73cb74a1c0d1dc814dae91c2425a15f28ba2b7a,1,425,25.0,704,576,17.0,train,test
+videppppsss_75.mp4,non shop lifters,cf4a3673e1c8da08dbaff9295ec721ec54bd9912a481fe4714b40a02dc02ce7e,0,348,24.83,704,576,14.01530406766009,train,test
+shop_lifter_n_71.mp4,non shop lifters,e701b37e2cfd0346594cda2953989c3b864c90be9316cdad1a337dd3ff7145d1,0,400,25.0,704,576,16.0,test,test
+videyyyyyyyyyss_7.mp4,shop lifters,c0d6a4c6c7deeced23fa32c8da5572dc48683a0a566afca0789c1a11757c97dc,1,300,25.0,704,576,12.0,validation,test
+videyyyyyyyyyss_2.mp4,shop lifters,54ebf34febf1702cfb06caa0bb87e13a6f280fa118437f7c3493f9680b2729dc,1,325,25.0,704,576,13.0,train,test
+shop_lifter_24.mp4,shop lifters,8cb5f3934b6362c54ef9195037b4feff817b7aa77a6863a6920bea6e99296fb6,1,396,24.75,704,576,16.0,train,test
+videppppsss_48.mp4,non shop lifters,ab611b1f5393bd0abd38bd8401b87a1ccdc7794d4161ed13fca92313c0c5989f,0,323,24.83,704,576,13.008457511075314,train,test
+shop_lifter_112.mp4,shop lifters,360b6a7dfaf0b45702c4028a56c92a5c541688f0511c3816ec9b5f2bc8d5cd2b,1,375,25.0,704,576,15.0,train,test
+videyyyyyyyyyss_36.mp4,shop lifters,00bd96310e19c39b3b441d79a11f642ac82967c83163850b4aa476f5a91c7183,1,225,25.0,704,576,9.0,train,test
+shop_lifter_n_82.mp4,non shop lifters,91937d5957dbc340d4000ea3181641492eed86695a279771712b1348a0117c1e,0,300,25.0,704,576,12.0,train,test
+videppppsss_50.mp4,non shop lifters,2eb62bfc82548e0ff48307b9837ce220113a35daec25ce5b5ec731cdcb0308a4,0,398,24.83,704,576,16.02899718082964,validation,test
+videyyyyyynnnnnnzzzzzyyyss_19.mp4,shop lifters,e3a0370490e5d2e7419596fe5e2b4b939db0b12ff8f1f9aec14093fa9aedea22,1,325,25.0,704,576,13.0,train,test
+videppppsss_31.mp4,shop lifters,a1cad42eada0476813486c6e7ca86d6246f4fb6ad23f0237a49fe51284868be5,1,425,25.0,704,576,17.0,validation,test
+shop_lifter_n_170.mp4,non shop lifters,ab5936c9b42ef5fde1427a99660f29d2494525906529b4b117a95769d1428935,0,250,25.0,704,576,10.0,train,test
+videyyyyyyyyyss_34.mp4,shop lifters,963ad3bc23056940c3aba2eadeeb8780807505bd15cd505fb16a536ee7aae2e6,1,200,25.0,704,576,8.0,train,test
+videppppsss_31.mp4,non shop lifters,994b15181ed1f081419ebe7589b510963b96645c01838056e9ffa59884e83efb,0,274,24.83,704,576,11.03503826016915,train,test
+shop_lifter_n_199.mp4,non shop lifters,da955d4024f6b1ed983b0b95782058a6dde93fcb48fd5492522629e0fc717171,0,375,25.0,704,576,15.0,validation,test
+shop_lifter_73.mp4,shop lifters,7cc4c89ea7fa48e4ca2463fa8bee8917176c7a337f73d44c13a9da3f0924baa7,1,223,24.75,704,576,9.01010101010101,train,test
+shop_lifter_65.mp4,shop lifters,343b8cfca63716a6646eb903d272c4cce2528874200c62fd8cc3cfb747162669,1,248,24.75,704,576,10.02020202020202,train,test
+videppppsss_51.mp4,non shop lifters,8ed092b84e69500cf23e708762f6334d8cef5d007ee3fb2ae06a284bf900cbb9,0,373,24.83,704,576,15.022150624244864,train,test
+shop_lifter_95.mp4,shop lifters,eec7d119cb9430350c5ef5663a26eb868c5c3349c95e3981214acd6f8e4bed21,1,400,25.0,704,576,16.0,test,test
+videppppsss_39.mp4,shop lifters,8888c2430a0367e0506eaeaaadca23aaeeb2acf628bce47e59fe97c38c2fc4ea,1,425,25.0,704,576,17.0,train,test
+shop_lifter_n_43.mp4,non shop lifters,235b7b7226cd40e64173b58f00ebd6f2a1a61706d8f451073e4aa0b9cf6bd2db,0,325,25.0,704,576,13.0,train,test
+shop_lifter_n_134.mp4,non shop lifters,94817d62a2994b7077f84ac3f496de61f772846d73116756accdc644e9933efe,0,400,25.0,704,576,16.0,train,test
+shop_lifter_n_84.mp4,non shop lifters,dfe7a086f9c5f92c320cbfa4aaf2b6b8111651941ed3e3004c5aa4b1219c6c30,0,225,25.0,704,576,9.0,train,test
+shop_lifter_115.mp4,shop lifters,29b0491c30dcbe1b0c749bca4b5ea2a17f33cd134d894eec6a838b5ab1aba913,1,400,25.0,704,576,16.0,train,test
+videyyyyyyzzzzzyyyss_9.mp4,shop lifters,f014ddc9b5cbd537792a18e74d76714ec573a0b702616b0415f24b19631ee813,1,250,25.0,704,576,10.0,test,test
+shop_lifter_101.mp4,shop lifters,8be7c12ba07133ae6e2ca3c6d7bde18d8751dc92128bbcbd57b79945ddc27fcc,1,375,25.0,704,576,15.0,train,test
+shop_lifter_n_150.mp4,non shop lifters,719ccc68f94fe73f1692414f98e6eb9651707ba4c42c4d2060991d503f879716,0,300,25.0,704,576,12.0,train,test
+videmmmmmmsss_95.mp4,shop lifters,5b4174c99824b18426f522d27e3f9f2c9dd51e9a73be1fd2abc90cbd5bfb6517,1,248,24.75,704,576,10.02020202020202,test,test
+videyyyyyyyyyss_49.mp4,shop lifters,6fb93c0b56b4ad535107962dd5659b12dc3f4e3fc30165b260754fc4c56ce70b,1,250,25.0,704,576,10.0,train,test
+videppppsss_32.mp4,shop lifters,31b79e4f0945e62ae586c99313de6273b1de0a3dea79c1629afc20d74a474249,1,325,25.0,704,576,13.0,train,test
+shop_lifter_n_72.mp4,non shop lifters,0bf3c508f7af847328a65829444ad4df1ddec34fd99036ad859280fd0268abbb,0,450,25.0,704,576,18.0,train,test
+shop_lifter_109.mp4,shop lifters,a08817600c4588c6b9f1a1a4e02e72cabd62a15c4bf3cae1d4988d4573753943,1,375,25.0,704,576,15.0,test,test
+shop_lifter_29.mp4,shop lifters,fe84cb75ec35a144b62cd817798077c5ded3fbca7352bf3b24d07bc2d90f22a8,1,396,24.75,704,576,16.0,train,test
+shop_lifter_94.mp4,shop lifters,b920563e91468b5d57ef722c75789031db175ac96715ca9473b0c255ad4c1d1c,1,375,25.0,704,576,15.0,train,test
+videppppsss_85.mp4,non shop lifters,ce675b7be20c8c90958790f4479ae239ba4ea5fde65137500bd5d40d264a3522,0,249,24.83,704,576,10.028191703584374,test,test
+videppppsss_79.mp4,non shop lifters,5bb499f10890202cdc3b4285986588c0a4a630a0bcd8c084a8ce08913189744d,0,348,24.83,704,576,14.01530406766009,train,test
+shop_lifter_n_37.mp4,non shop lifters,cd1b04df1e49547b6055b82e12a873ee94849538d3784c7489937d11a3994eb3,0,400,25.0,704,576,16.0,train,test
+videppppsss_30.mp4,shop lifters,278e75042d4b5346aabf8b411bd72fe6e98b35055d0bcdb8e63f0a4fc5aea352,1,350,25.0,704,576,14.0,train,test
+shop_lifter_30.mp4,shop lifters,4dc8448b692ca065de67d00abec67d3b6b23eaa146dbf89d9a8d5c31044bc1f8,1,372,24.75,704,576,15.030303030303031,train,test
+shop_lifter_100.mp4,shop lifters,1c52069782e4894a0915d622a056d476e76e6bb310c53ecf87cf7003a5373574,1,350,25.0,704,576,14.0,validation,test
+shop_lifter_26.mp4,shop lifters,ac913a65f8fee87aecafb84a024eb4aceee33591fa7e8767df38dad3f1d8461c,1,396,24.75,704,576,16.0,train,test
+shop_lifter_n_88.mp4,non shop lifters,8bd847a9be016a3ab8171bec46c45053f65f761fe2d7485bc8d50fcaf93e31ab,0,275,25.0,704,576,11.0,train,test
+shop_lifter_39.mp4,shop lifters,5cd4cbc3810396400b975c97a6a4f77ed8320386d736c78e963c493473b23867,1,570,24.75,704,576,23.03030303030303,train,test
+shop_lifter_n_142.mp4,non shop lifters,99c2956ee7cd0a1a41e27ee0024b9bf1814ca9951ee7b2daab21a3d20dbffe15,0,450,25.0,704,576,18.0,test,test
+shop_lifter_n_154.mp4,non shop lifters,ae8d20ccbddcbf4ba065bd7a24c8004ee7e78bed1b28fd7f2fee3d20573155b7,0,225,25.0,704,576,9.0,train,test
+videppppsss_61.mp4,non shop lifters,30b930bd6805bf76f4efd3bc544082ab5ec4234462979320c8ba8e6e802da5fa,0,174,24.83,704,576,7.007652033830045,validation,test
+videppppsss_11.mp4,shop lifters,bfc31881c504d11c77da4465d8add7e4c0fa84226c920b741b037542dcba3320,1,350,25.0,704,576,14.0,test,test
+shop_lifter_n_75.mp4,non shop lifters,87a8e32f1d73eb991c34e9450b1a92062edbc2ab5f75af289d68ed26ecbb7775,0,400,25.0,704,576,16.0,test,test
+shop_lifter_n_11.mp4,non shop lifters,542ae9416fccac016aecc6e2eec7c5ef0b066991842e69da657e558457e3d237,0,425,25.0,704,576,17.0,train,test
+shop_lifter_78.mp4,shop lifters,31e3d9f8f13866e209d24bd75489031e899251db4c10cecdfb46183ddf886ebb,1,273,24.75,704,576,11.030303030303031,train,test
+shop_lifter_14.mp4,shop lifters,2e62992cbc25dd90da117c37e569b01c055b90e3aa7f8c684a332b9d49101e70,1,421,24.75,704,576,17.01010101010101,train,test
+shop_lifter_n_214.mp4,non shop lifters,196d7c9c3edf2f639a80e20910e08ba5563ba3147312775ba723199459c143c5,0,325,25.0,704,576,13.0,train,test
+shop_lifter_n_195.mp4,non shop lifters,10f6435d13e93af4984310ea1efc69f03f810d96a6928ff0b6a76dee61354fa7,0,325,25.0,704,576,13.0,train,test
+videmmmmmmsss_96.mp4,shop lifters,bea409ac92b7ef8d0bd09e6edf1e820b7777e1ab8316bd62d22653332402e001,1,347,24.75,704,576,14.02020202020202,train,test
+videyyyyyynnnnnnzzzzzyyyss_26.mp4,shop lifters,e82c6819a01be4ec70025b264b2881d35a908dea176ede6d0851afc0e85069cd,1,225,25.0,704,576,9.0,test,test

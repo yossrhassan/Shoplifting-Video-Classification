@@ -1,0 +1,9 @@
+{
+  "model": "MCG-NJU/videomae-base-finetuned-kinetics",
+  "best_epoch": 8,
+  "best_validation_f1": 0.9574468085106383,
+  "epochs_completed": 8,
+  "training_split": "video_splits_clean.csv",
+  "best_checkpoint": "videomae_best_clean.pth",
+  "history_file": "videomae_training_history.csv"
+}

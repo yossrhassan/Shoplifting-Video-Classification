@@ -1,0 +1,3 @@
+model,accuracy,precision,recall,f1,parameters,checkpoint_mb,median_forward_ms,throughput_videos_per_second
+Scratch CNN,0.875,0.9512195121951219,0.7959183673469388,0.8666666666666667,292578,1.1272783279418945,6.92,144.52
+VideoMAE,0.9167,1.0,0.8367,0.9111,86228738,329.0127058029175,108.33,9.23
