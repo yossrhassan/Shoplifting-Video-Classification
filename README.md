@@ -2,86 +2,134 @@
 
 ## Project Overview
 
-This project uses a 3D Convolutional Neural Network (3D CNN) to classify shopping videos into two categories:
-- `Normal shopping` (class 0)
-- `Shoplifting` (class 1)
+This project explores video classification for distinguishing between normal shopping behavior and shoplifting. It compares a 3D Convolutional Neural Network (3D CNN) trained from scratch with a pretrained VideoMAE model fine-tuned for binary classification.
 
-The model was trained from scratch using video data and exported to ONNX for inference.
+The main objective is to evaluate whether transfer learning improves classification performance and to understand the trade-offs in model size and inference speed.
 
-## Dataset
+## Dataset and Data Leakage Checks
 
-- Total videos: 855
-- Normal shopping videos: 531
-- Shoplifting videos: 324
-- Training videos: 598
-- Validation videos: 128
-- Test videos: 129
+The original dataset contained 855 video files:
 
-The dataset was split using stratified sampling with a fixed random seed.
+- Normal shopping: 531 files
+- Shoplifting: 324 files
 
-## Model and Preprocessing
+An exact-duplicate check using SHA-256 hashes identified 637 unique video contents and 218 extra copies. Some identical videos had been assigned to different data splits.
 
-- Architecture: 3D CNN
-- Trainable parameters: 292,338
-- Frames sampled per video: 32
+To address this issue, one representative of each exact video duplicate was retained before creating a new stratified split.
+
+| Split | Normal shopping | Shoplifting | Total |
+|---|---:|---:|---:|
+| Training | 219 | 226 | 445 |
+| Validation | 47 | 49 | 96 |
+| Test | 47 | 49 | 96 |
+| **Total** | **313** | **324** | **637** |
+
+The clean split is saved in `video_splits_clean.csv`. Exact duplicate video contents do not cross the training, validation, and test splits. Near-duplicate scenes and videos that have been re-encoded were not exhaustively checked.
+
+## Models
+
+### 1. Scratch CNN
+
+A 3D CNN trained from random initialization, using the architecture from the Week 5 task.
+
+- Trainable parameters: 292,578
+- Frames per video: 32
 - Frame dimensions: 104 × 128
-- Color format: RGB
-- Pixel normalization: values scaled to [0, 1]
-- Decision threshold: 0.525
-- Deployment format: ONNX
+- Input color format: RGB
+- Pixel values scaled to the range [0, 1]
 
-Frames are sampled uniformly throughout each video. The decision threshold was selected using the validation set.
+### 2. VideoMAE
 
-## Test Results
+A pretrained model loaded from Hugging Face:
 
-Evaluation on the held-out test set using the selected threshold:
+`MCG-NJU/videomae-base-finetuned-kinetics`
 
-| Metric | Result |
-|---|---:|
-| Accuracy | 79.84% |
-| Precision | 70.18% |
-| Recall | 81.63% |
-| F1-score | 75.47% |
+The original classifier was replaced with a two-class head:
 
-Confusion matrix counts:
+- Class 0: Normal shopping
+- Class 1: Shoplifting
 
-- True negatives: 63
-- False positives: 17
-- False negatives: 9
-- True positives: 40
+The model was fine-tuned on the clean training split, with validation F1-score used to select the best checkpoint.
 
-These results describe performance on this dataset and do not guarantee performance on unseen real-world footage.
+- Trainable parameters: 86,228,738
+- Frames per video: 16
+- Input dimensions: 224 × 224
+- Frame preprocessing: VideoMAE image processor
 
-## Files
+## Clean Test Results
 
-- `shoplifting_3dcnn.onnx` — exported inference model
-- `inference_onnx.py` — script for classifying a video
-- `final_evaluation_report.json` — evaluation summary
-- `training_history.csv` — training metrics by epoch
-- `final_shoplifting_3dcnn.pth` — final PyTorch checkpoint
-- `best_shoplifting_3dcnn.pth` — best validation checkpoint
-- `video_splits.csv` — saved dataset split information
+Both models were evaluated on the same 96-video test set. The reported precision, recall, and F1-score refer to shoplifting as the positive class.
 
-## Run Inference
+| Metric | Scratch CNN | VideoMAE |
+|---|---:|---:|
+| Accuracy | 87.50% | **91.67%** |
+| Precision | 95.12% | **100.00%** |
+| Recall | 79.59% | **83.67%** |
+| **F1-score** | 86.67% | **91.11%** |
 
-Install the inference dependencies:
+VideoMAE improved the test F1-score by 4.44 percentage points over the scratch baseline.
 
-```bash
-pip install numpy opencv-python-headless onnxruntime
-```
+### Confusion Matrices
 
-Place `shoplifting_3dcnn.onnx` and `inference_onnx.py` in the same directory, then run:
+Rows represent the actual class and columns represent the predicted class, in the order Normal shopping and Shoplifting.
 
-```bash
-python inference_onnx.py --video "path/to/video.mp4"
-```
+**Scratch CNN**
 
-The script prints the predicted class, shoplifting probability, decision threshold, and number of sampled frames.
+| | Predicted Normal | Predicted Shoplifting |
+|---|---:|---:|
+| Actual Normal | 45 | 2 |
+| Actual Shoplifting | 10 | 39 |
 
-## Limitations and Responsible Use
+**VideoMAE**
 
-This model can produce false positives and false negatives. Its predictions must not be treated as proof that a person has committed shoplifting. Do not use predictions alone to accuse, discipline, or take action against anyone. Any practical use would require human review and additional validation on representative footage.
+| | Predicted Normal | Predicted Shoplifting |
+|---|---:|---:|
+| Actual Normal | 47 | 0 |
+| Actual Shoplifting | 8 | 41 |
+
+VideoMAE produced no false positives on this test set, but it missed 8 of the 49 shoplifting videos. These results are specific to this dataset and do not guarantee performance on unseen footage.
+
+## Model Size and Inference Speed
+
+The forward-pass benchmark was performed on a Tesla T4 GPU using FP32 precision, batch size 1, five warm-up runs, and 30 timed runs. Video decoding and preprocessing were excluded from the timing.
+
+| Measurement | Scratch CNN | VideoMAE |
+|---|---:|---:|
+| Parameters | 292,578 | 86,228,738 |
+| Checkpoint size | 1.13 MB | 329.01 MB |
+| Median forward-pass time | **6.92 ms** | 108.33 ms |
+| Approximate throughput | **144.52 videos/s** | 9.23 videos/s |
+
+VideoMAE achieved higher test classification scores, but it requires a much larger checkpoint and has higher forward-pass latency. The scratch CNN is substantially smaller and faster, making it an attractive option when resource constraints are important.
+
+These timings measure model inference only; full video processing will take additional time.
+
+## Repository Files
+
+- `Shoplifting_Detection.ipynb` — original Week 5 notebook.
+- `Shoplifting_Pretrained_Finetuning.ipynb` — pretrained fine-tuning, clean evaluation, and model comparison workflow.
+- `MODEL_COMPARISON.md` — model comparison summary.
+- `model_comparison_clean.csv` — comparison metrics in CSV format.
+- `model_comparison_clean.json` — structured comparison results.
+- `videomae_clean_test_report.json` — VideoMAE clean test report.
+- `scratch_clean_test_report.json` — scratch CNN clean test report.
+- `videomae_training_history.csv` — VideoMAE training history.
+- `scratch_clean_training_history.csv` — scratch CNN training history.
+- `videomae_training_summary.json` — VideoMAE training summary.
+- `scratch_clean_training_summary.json` — scratch CNN training summary.
+- `video_splits_clean.csv` — clean dataset split.
+- `inference_onnx.py` and `shoplifting_3dcnn.onnx` — inference script and ONNX model from the earlier Week 5 experiment.
+
+The fine-tuned VideoMAE checkpoint is not included in this repository because of its size. It was saved separately during training. The notebook can be used to reproduce the fine-tuning workflow, subject to access to the dataset and sufficient compute resources.
 
 ## Reproducibility
 
-The saved training history, evaluation report, model checkpoints, and dataset split information support inspection of the experiment. The original dataset and training environment may be required to reproduce training.
+The comparison uses a fixed random seed of 42 for the clean split and records training histories and evaluation reports. Both models were evaluated on the same held-out test videos.
+
+The earlier Week 5 test result was obtained before the exact duplicate issue was discovered. It is retained as historical information, but it should not be treated as the clean baseline or directly compared with the new test results.
+
+## Limitations and Responsible Use
+
+The dataset is limited in size and may not represent real-world shop environments. Exact hash matching does not detect every near-duplicate video or similar scene, and results may vary on different cameras, environments, and behaviors.
+
+This model is a research experiment. Its predictions are not proof of wrongdoing and must not be used alone to accuse, discipline, or take action against anyone. Any real-world use would require additional validation and human review.
